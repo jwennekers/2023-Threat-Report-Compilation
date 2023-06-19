@@ -1,6 +1,9 @@
 
 # Welcome to the 2023 Threat Report Compilation!
 
+![Threat Report Compilation](https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/7caa5bdc-11f3-4fff-8449-3fe7b2c9d9db)
+
+
 Trends: Every year there are shifts in the cyber threat landscape, changes in attack techniques, and the number of breaches. And each year vendors, security organisations, research institutes and government agencies publish relevant reports on the current cybersecurity threat landscape. As the number of various published reports can be daunting, I’ve tried (like in [2022](https://medium.com/@j-wennekers/2022-a-selection-of-annual-cybersecurity-threat-reports-aec9166265c0)) to create an overview of a selection of what has been published so far in 2023 — and, more importantly, where to get them. The selection is shown in alphabetical order based on the publishing organisation.
 
 > _💡 This overview will be updated throughout the year with newly released reports and insights. Do you have any additions? Feel free to message me and I'll make sure they're added to the overview!_
