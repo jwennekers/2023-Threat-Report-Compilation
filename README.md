@@ -10,8 +10,8 @@ Trends: Every year there are shifts in the cyber threat landscape, changes in at
 
 # Monthly updates
 
-- [January 2023](./2023_January/README.md)
-- [February 2023](./2023_February/README.md)
+- [January 2023](./2023_01January/README.md)
+- [February 2023](./2023_02February/README.md)
 
 # Tips for reading the reports efficiently
 First and foremost, remember that none of the reports should be seen as a single source of truth — as much as some publishers might want you to. In some cases, data might be complementary or contradictory, depending on the scope of the data collected (e.g. due to differences in client base, research participants, or the way technical data is collected). Because of this, always keep a critical mind while reading.
