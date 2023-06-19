@@ -8,6 +8,11 @@ Trends: Every year there are shifts in the cyber threat landscape, changes in at
 
 > _💡 This overview will be updated throughout the year with newly released reports and insights. Do you have any additions? Feel free to message me and I'll make sure they're added to the overview!_
 
+# Monthly updates
+
+- [January 2023](./2023_January/README.md)
+- [February 2023](./2023_February/README.md)
+
 # Tips for reading the reports efficiently
 First and foremost, remember that none of the reports should be seen as a single source of truth — as much as some publishers might want you to. In some cases, data might be complementary or contradictory, depending on the scope of the data collected (e.g. due to differences in client base, research participants, or the way technical data is collected). Because of this, always keep a critical mind while reading.
 
@@ -20,8 +25,3 @@ Thirdly, focus on the parts of the reports that are relevant to your (client) or
 * cloud infrastructure that your (client) organisation leverages
 
 And lastly, keep in mind why you’re reading the report — a SOC Analyst requires different information from a threat report to fulfil their job than their CISO, and will thus always look at the data with a different view.
-
-# Monthly updates
-
-- [January 2023](./2023_January/README.md)
-- [February 2023](./2023_February/README.md)
