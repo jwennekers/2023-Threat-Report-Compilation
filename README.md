@@ -1,5 +1,5 @@
 
-# Welcome to the 2023 Threat Report Compilation wiki!
+# Welcome to the 2023 Threat Report Compilation!
 
 Trends: Every year there are shifts in the cyber threat landscape, changes in attack techniques, and the number of breaches. And each year vendors, security organisations, research institutes and government agencies publish relevant reports on the current cybersecurity threat landscape. As the number of various published reports can be daunting, I’ve tried (like in [2022](https://medium.com/@j-wennekers/2022-a-selection-of-annual-cybersecurity-threat-reports-aec9166265c0)) to create an overview of a selection of what has been published so far in 2023 — and, more importantly, where to get them. The selection is shown in alphabetical order based on the publishing organisation.
 
