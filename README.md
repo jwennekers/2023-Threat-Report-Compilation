@@ -21,3 +21,4 @@ And lastly, keep in mind why you’re reading the report — a SOC Analyst requi
 # Monthly updates
 
 - [January 2023](./2023_January/README.md)
+- [February 2023](./2023_February/README.md)
