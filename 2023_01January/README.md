@@ -2,11 +2,6 @@
 
 # Threat Report Compilation | January 2023
 
-Get to the other pages:
-- [Master List](./2023_00Masterlist/README.md)
-- [January 2023](./2023_01January/README.md)
-- [February 2023](./2023_02February/README.md)
-- [March 2023](./2023_03March/README.md)
 
 | Publisher  | Report |
 | ------------- | ------------- |
