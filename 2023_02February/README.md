@@ -1,6 +1,6 @@
 ![February](https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/06300ebc-0864-4f4c-9257-e70c0f49d603)
 
-# H1 Threat Report Compilation | Februari 2023
+# Threat Report Compilation | Februari 2023
 
 | Publisher  | Report |
 | ------------- | ------------- |
