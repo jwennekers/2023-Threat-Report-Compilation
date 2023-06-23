@@ -10,7 +10,7 @@ Trends: Every year there are shifts in the cyber threat landscape, changes in at
 
 # Monthly updates
 
-- [Master List](./2023_00Master%20List/README.md)
+- [Master List](./2023_00Masterlist/README.md)
 - [January 2023](./2023_01January/README.md)
 - [February 2023](./2023_02February/README.md)
 - [March 2023](./2023_03March/README.md)
