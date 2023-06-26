@@ -1,10 +1,39 @@
 
+| Publisher  | Report |
+| ------------- | ------------- |
+|Amatas|[Cyber Threat Report - April 2023](https://www.amatas.com/reports/cyber-threat-report-april-2023/)|
+|AT&T|[2023 AT&T Cybersecurity Insights Report: Edge Ecosystem](https://cybersecurity.att.com/resource-center/insights-reports/cybersecurity-insights-report-edge-ecosystem)|
+|AttackIQ|[Emulating Recent Malicious Activity from the Iranian Adversary OilRig](https://www.attackiq.com/2023/04/04/emulating-oilrig/)|
+|Barracuda|[Cybersecurity Threat Advisory: LastPass’ security incident update](https://blog.barracuda.com/2023/01/04/cybersecurity-threat-advisory-lastpass-security-incident-update/)|
+|Barracuda|[Cybersecurity Threat Advisory: NortonLifeLock compromised](https://blog.barracuda.com/2023/01/24/cybersecurity-threat-advisory--nortonlifelock-compromised/)|
+|Barracuda|[Cybersecurity Threat Advisory: Atlassian critical remote code execution vulnerability](https://blog.barracuda.com/2023/02/09/cybersecurity-threat-advisory--atlassian-critical-remote-code-ex/)|
+|Barracuda|  [Cybersecurity Threat Advisory: OneNote malware delivery](https://blog.barracuda.com/2023/02/10/cybersecurity-threat-advisory--onenote-malware-delivery/)|
+|Barracuda|[Cybersecurity Threat Advisory: Malicious packages found in Python Package Index (PyPI)](https://blog.barracuda.com/2023/02/15/cybersecurity-threat-advisory--malicious-packages-found-in-pytho/)|
+|Barracuda|[Cybersecurity Threat Advisory: New phishing campaigns related to recent bank failures](https://blog.barracuda.com/2023/03/16/cybersecurity-threat-advisory--new-phishing-campaigns-related-to/)|
+|Barracuda|[Cybersecurity Threat Advisory: Microsoft Outlook elevation of privilege vulnerability](https://blog.barracuda.com/2023/03/22/-cybersecurity-threat-advisory--microsoft-outlook-elevation-of-p/)|
+|Barracuda|[Cybersecurity Threat Advisory: 3CX supply chain attack updates](https://blog.barracuda.com/2023/04/04/cybersecurity-threat-advisory--3cx-supply-chain-attack-updates/)|
+|Barracuda|[Cybersecurity Threat Advisory: New QBot malware delivering campaigns discovered](https://blog.barracuda.com/2023/04/25/cybersecurity-threat-advisory--new-qbot-malware-delivering-campa/)|
+|Barracuda|[Cybersecurity Threat Advisory: EvilExtractor malware surge detected](https://blog.barracuda.com/2023/04/28/cybersecurity-threat-advisory--evilextractor-malware-surge-detec/)|
+|Barracuda|[Threat Spotlight: Proportion of malicious HTML attachments doubles within a year](https://blog.barracuda.com/2023/05/03/threat-spotlight-malicious-html-attachments-doubles/)|
+|Check Point|[Fake Websites Impersonating Association To ChatGPT Poses High Risk, Warns Check Point Research](https://blog.checkpoint.com/research/fake-websites-impersonating-association-to-chatgpt-poses-high-risk-warns-check-point-research/)|
+|Check Point|[The Dragon Who Sold His Camaro: Analyzing Custom Router Implant](https://research.checkpoint.com/2023/the-dragon-who-sold-his-camaro-analyzing-custom-router-implant/)|
+|Checkmarx|[Software Supply Chain Security Threat Landscape - April 2023 Overview](https://www.linkedin.com/posts/tzachi-zornstain_supply-chain-security-threat-landscape-april-activity-7062466807017668608-VnMP)|
+|CISA (Cybersecurity & Infrastructure Security Agency, United States of America)|[#StopRansomware: BianLian Ransomware Group](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-136a)|
+|Cofense|[Summer-Time Scams: The Return of Vacation-Request Phishing Emails](https://cofense.com/blog/summer-time-scams-the-return-of-vacation-request-phishing-emails/)|
+|Cyber Rescue Alliance|[Breaches Anticipated in 2023](https://www.linkedin.com/posts/cyber-rescue-alliance_breaches-anticipated-in-2023-activity-7066410601350115329-58A3/)|
+|Datadog|[The OverlayFS vulnerability CVE-2023-0386: Overview, detection, and remediation](https://securitylabs.datadoghq.com/articles/overlayfs-cve-2023-0386/)|
+|Dragos|[Dragos Analyzes Russian Programs Threatening Critical Civilian Infrastructure](https://hub.dragos.com/intel-brief/russian-software-programs-targeting-industrial-infrastructure)|
+|Dragos|[Deep Dive Into PIPEDREAM’s OPC UA Module, MOUSEHOLE](https://www.dragos.com/blog/pipedream-mousehole-opcua-module/)|
 
+
+
+OLD
+--------
 | Publisher  | Report |
 | ------------- | ------------- |
 |Dragos|[Dragos Analyzes Russian Programs Threatening Critical Civilian Infrastructure](https://hub.dragos.com/intel-brief/russian-software-programs-targeting-industrial-infrastructure)|
 |Dragos|[Deep Dive Into PIPEDREAM’s OPC UA Module, MOUSEHOLE](https://www.dragos.com/blog/pipedream-mousehole-opcua-module/)|
-|ESET|[APT Activity Report: Q4 2022 - Q1 2023 \| Lazarus Extends Targeting to All Major Desktop OSes](https://www.eset.com/fileadmin/ESET/NL/Documenten/Zakelijk/apt-report-q4-2022-q1-2023.pdf)|
+|ESET|[APT Activity Report: Q4 2022 - Q1 2023 - Lazarus Extends Targeting to All Major Desktop OSes](https://www.eset.com/fileadmin/ESET/NL/Documenten/Zakelijk/apt-report-q4-2022-q1-2023.pdf)|
 |KPMG|[Cyber Incidents and Intelligence: 2022](https://kpmg.pathfactory.com/c/cyber-incidents-and-intelligence-2022?x=kXfRYF#page=1)|
 |Proofpoint|[2023 State of the Phish](https://www.proofpoint.com/us/resources/threat-reports/state-of-phish)|
 |The DFIR Report|[IcedID Macro Ends in Nokoyawa Ransomware](https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/)|
@@ -18,7 +47,7 @@
 |IBM X-Force / Security Intelligence|[BlackCat (ALPHV) Ransomware Levels Up for Stealth, Speed and Exfiltration](https://securityintelligence.com/posts/blackcat-ransomware-levels-up-stealth-speed-exfiltration/)|
 |Talos / Ciscos|[New phishing-as-a-service tool “Greatness” already seen in the wild](https://blog.talosintelligence.com/new-phishing-as-a-service-tool-greatness-already-seen-in-the-wild/)|
 |Datadog|[The OverlayFS vulnerability CVE-2023-0386: Overview, detection, and remediation](https://securitylabs.datadoghq.com/articles/overlayfs-cve-2023-0386/)|
-|Amatas|[Cyber Threat Report \| April 2023](https://www.amatas.com/reports/cyber-threat-report-april-2023/)|
+|Amatas|[Cyber Threat Report - April 2023](https://www.amatas.com/reports/cyber-threat-report-april-2023/)|
 |Synopsis|[Software Vulnerability Snapshot](https://go.synopsys.com/software-vulnerability-trends.html)|
 |Microsoft (Microsoft Threat Intelligence)|[Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)|
 |Microsoft (Microsoft Threat Intelligence)|[Volt Typhoon targets US critical infrastructure with living-off-the-land techniques](https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/)|
@@ -54,7 +83,7 @@
 |Malwarebytes|[Fake system update drops Aurora stealer via Invalid Printer loader](https://www.malwarebytes.com/blog/threat-intelligence/2023/05/fake-system-update-drops-new-highly-evasive-loader)|
 |EU CERT|[Threat Landscape Report 2023Q1](https://www.cert.europa.eu/static/threat-intelligence/TLP-CLEAR-TLR2023-ExecSum-all-v1.pdf)|
 |Perception Point|[2023 Annual Report:Cybersecurity Trends & Insights](https://perception-point.io/resources/report/2023-annual-report/)|
-|SentinelLabs / SentinelOne|[Kimsuky \| Ongoing Campaign Using Tailored Reconnaissance Toolkit](https://www.sentinelone.com/labs/kimsuky-ongoing-campaign-using-tailored-reconnaissance-toolkit/)|
+|SentinelLabs / SentinelOne|[Kimsuky - Ongoing Campaign Using Tailored Reconnaissance Toolkit](https://www.sentinelone.com/labs/kimsuky-ongoing-campaign-using-tailored-reconnaissance-toolkit/)|
 |Group-IB|[You’ve been kept in the dark (web): exposing Qilin’s RaaS program](https://www.group-ib.com/blog/qilin-ransomware/)|
 |Cyber Rescue Alliance|[Breaches Anticipated in 2023](https://www.linkedin.com/posts/cyber-rescue-alliance_breaches-anticipated-in-2023-activity-7066410601350115329-58A3/)|
 |Jose Luis Sánchez Martínez|[Dissecting GobRAT behaviors - Linux malware](https://jstnk9.github.io/jstnk9/research/GobRAT-Malware/)|
