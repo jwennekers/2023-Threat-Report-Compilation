@@ -2,7 +2,7 @@
 
 | Publisher  | Report |
 | ------------- | ------------- |
-|Dragos|[Dragos Analyzes Russian Programs Threatening Critical Civilian Infrastructure]([https://redalert.nshc.net/2023/01/18/monthly-threat-actor-group-intelligence-report-november-2022-eng/](https://hub.dragos.com/intel-brief/russian-software-programs-targeting-industrial-infrastructure)https://hub.dragos.com/intel-brief/russian-software-programs-targeting-industrial-infrastructure)|
+|Dragos|[Dragos Analyzes Russian Programs Threatening Critical Civilian Infrastructure](https://hub.dragos.com/intel-brief/russian-software-programs-targeting-industrial-infrastructure)|
 |Dragos|[Deep Dive Into PIPEDREAM’s OPC UA Module, MOUSEHOLE](https://www.dragos.com/blog/pipedream-mousehole-opcua-module/)|
 |ESET|[APT Activity Report: Q4 2022 - Q1 2023 \| Lazarus Extends Targeting to All Major Desktop OSes](https://www.eset.com/fileadmin/ESET/NL/Documenten/Zakelijk/apt-report-q4-2022-q1-2023.pdf)|
 |KPMG|[Cyber Incidents and Intelligence: 2022](https://kpmg.pathfactory.com/c/cyber-incidents-and-intelligence-2022?x=kXfRYF#page=1)|
