@@ -42,3 +42,10 @@ Security Centre, New Zealand)|[Understanding Ransomware Threat Actors: LockBit](
 |ThreatMon|[Beyond Bullets and Bombs: An Examination of Armageddon Group’s Cyber Warfare Against Ukraine](https://threatmon.io/beyond-bullets-and-bombs-an-examination-of-armageddon-groups-cyber-warfare-against-ukraine/)|
 |ThreatMon|[Threat Actors, Phishing Attacks and 2022 Phishing Preview](https://threatmon.io/threat-actors-phishing-attacks-and-2022-phishing-preview/)|
 |ThreatMon|[Behind the Breaches | Mapping Threat Actors and Their CVE Exploits](https://threatmon.io/behind-the-breaches-mapping-threat-actors-and-their-cve-exploits/)|
+|ThreatMon|[APT SideCopy Targeting Indian Government Entities](https://threatmon.io/apt-sidecopy-targeting-indian-government-entities/)|
+|ThreatMon|[SwiftSlicer Wiper Malware Analysis Report](https://threatmon.io/swiftslicer-wiper-malware-analysis-report/)|
+|ThreatMon|[DoNot Team (APT-C-35) Analysis of Latest Campaign](https://threatmon.io/donot-team-apt-c-35-analysis-of-latest-campaing/)|
+|ThreatMon|[The Global Cyber Security Intelligence Risk Report 2023]|(https://threatmon.io/the-global-cyber-security-intelligence-risk-report-2023/)|
+|ThreatMon|[ThreatMon Ransomware Group Activity Report: 13.01.2023-27.01.2023](https://threatmon.io/threatmon-ransomware-group-activity-report-13-01-2023-27-01-2023/)|
+|ThreatMon|[ThreatMon Ransomware Group Activity Report: 01.01.2023-13.01.2023](https://threatmon.io/threatmon-ransomware-group-report-01-01-2023-13-01-2023/)|
+|ThreatMon|[ThreatMon Ransomware Group Activity Report: 18.12.2022– 01.01.2022](https://threatmon.io/threatmon-ransomware-group-activity-report-18-12-2022-01-01-2022/)|
