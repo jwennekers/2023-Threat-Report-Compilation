@@ -29,3 +29,16 @@ Security Centre, New Zealand)|[Understanding Ransomware Threat Actors: LockBit](
 |ThreatMon|[Reverse Engineering RokRAT: A Closer Look at APT37’s Onedrive-Based Attack Vector](https://threatmon.io/reverse-engineering-rokrat-a-closer-look-at-apt37s-onedrive-based-attack-vector/)|
 |ThreatMon|[Zaraza Bot: The New Russian Credential Stealer](https://threatmon.io/zaraza-bot-the-new-russian-credential-stealer/)|
 |ThreatMon|[Anonymous Sudan: In-Depth Analysis Beyond Hacktivist Attacks](https://threatmon.io/anonymous-sudan-in-depth-analysis-beyond-hacktivist-attacks/)|
+|ThreatMon|[APT41’s Attack Chain: Exe-LolBins Leads to Powershell Backdoor with Telegram C2](https://threatmon.io/apt41s-attack-chain-exe-lolbins-leads-to-powershell-backdoor-with-telegram-c2/)|
+|ThreatMon|[APT Blind Eagles Malware Arsenal Technical Analysis](https://threatmon.io/apt-blind-eagles-malware-arsenal-technical-analysis/)|
+|ThreatMon|[The Rise of Dark Power: A Close Look at the Group and their Ransomware](https://threatmon.io/the-rise-of-dark-power-a-close-look-at-the-group-and-their-ransomware/)|
+|ThreatMon|[IT Army of Ukraine: Analysis of Threat Actors In The Ukraine-Russia War](https://threatmon.io/it-army-of-ukraine-analysis-of-threat-actors-in-the-ukraine-russia-war/)|
+|ThreatMon|[Anonymous Russia: Analysis of Threat Actors in Ukraine-Russia War](https://threatmon.io/anonymous-russia-analysis-of-threat-actors-in-ukraine-russia-war/)|
+|ThreatMon|[Chinotto Backdoor Technical Analysis of the APT Reaper’s Powerful Weapon](https://threatmon.io/chinotto-backdoor-technical-analysis-of-the-apt-reapers-powerful/)|
+|ThreatMon|[Report on Data Leaks Reported in Social Media](https://threatmon.io/report-on-data-leaks-reported-in-social-media/)|
+|ThreatMon|[The Roles of Threat Actors in The Ukraine-Russian War: Noname057(16)](https://threatmon.io/the-roles-of-threat-actors-in-the-ukraine-russian-war-noname05716/)|
+|ThreatMon|[KillNet: In-Depth Analysis on The Roles of Threat Actors and Attacks In The Ukraine-Russia War](https://threatmon.io/killnet-in-depth-analysis-on-the-roles-of-threat-actors-and-attacks-in-the-ukraine-russia-war/)|
+|ThreatMon|[Cybergun: Technical Analysis of the Armageddon’s Infostealer](https://threatmon.io/cybergun-technical-analysis-of-the-armageddons-infostealer/)|
+|ThreatMon|[Beyond Bullets and Bombs: An Examination of Armageddon Group’s Cyber Warfare Against Ukraine](https://threatmon.io/beyond-bullets-and-bombs-an-examination-of-armageddon-groups-cyber-warfare-against-ukraine/)|
+|ThreatMon|[Threat Actors, Phishing Attacks and 2022 Phishing Preview](https://threatmon.io/threat-actors-phishing-attacks-and-2022-phishing-preview/)|
+|ThreatMon|[Behind the Breaches | Mapping Threat Actors and Their CVE Exploits](https://threatmon.io/behind-the-breaches-mapping-threat-actors-and-their-cve-exploits/)|
