@@ -49,3 +49,25 @@ Security Centre, New Zealand)|[Understanding Ransomware Threat Actors: LockBit](
 |ThreatMon|[ThreatMon Ransomware Group Activity Report: 13.01.2023-27.01.2023](https://threatmon.io/threatmon-ransomware-group-activity-report-13-01-2023-27-01-2023/)|
 |ThreatMon|[ThreatMon Ransomware Group Activity Report: 01.01.2023-13.01.2023](https://threatmon.io/threatmon-ransomware-group-report-01-01-2023-13-01-2023/)|
 |ThreatMon|[ThreatMon Ransomware Group Activity Report: 18.12.2022– 01.01.2022](https://threatmon.io/threatmon-ransomware-group-activity-report-18-12-2022-01-01-2022/)|
+|IBM /IBM X-Force|[IBM X-Force Definitive Guide to Ransomware](https://securityintelligence.com/posts/ransomware-renaissance-definitive-guide-2023/)|
+|CybelAngel|[2023 State of the External Attack Surface: Annual Threat Trends Analysis](https://discover.cybelangel.com/2023-state-of-the-external-attack-surface)|
+|FBI (Federal Bureau of Investigation, United States of America), DOS (Department of State, United States of America), NSA (National Security Agency, United States of America), NIS (National Intelligence Service, Republic of Korea), NPA (National Police Agency, Republic of Korea), MOFA (Ministry of Foreign Affairs, Republic of Korea)|[North Korea Using Social Engineering to Enable Hacking of Think Tanks, Academia, and Media](https://www.ic3.gov/Media/News/2023/230601.pdf)|
+|Mandiant|[Zero-Day Vulnerability in MOVEit Transfer Exploited for Data Theft](https://www.mandiant.com/resources/blog/zero-day-moveit-data-theft)|
+|Recorded Future|[Private Eyes: China’s Embrace of Open-Source Military Intelligence](https://www.recordedfuture.com/private-eyes-chinas-embrace-open-source-military-intelligence)|
+|Recorded Future / Insikt Group|[North Korea’s Cyber Strategy](https://www.recordedfuture.com/north-koreas-cyber-strategy)|
+|The DFIR Report|[A Truly Graceful Wipe Out](https://thedfirreport.com/2023/06/12/a-truly-graceful-wipe-out/)|
+|CrowdStrike|[Adversaries Go Hands-On in Japan: Know the Threat and Know the Solution](https://www.crowdstrike.com/blog/japanese-overwatch-adversary-insights/)|
+|CrowdStrike|[Business as Usual: Falcon Complete MDR Thwarts Novel VANGUARD PANDA (Volt Typhoon) Tradecraft](https://www.crowdstrike.com/blog/falcon-complete-thwarts-vanguard-panda-tradecraft/)|
+|Momentum|[Cybersecurity Snapshot - May 2023](https://momentumcyber.com/cybersecurity-snapshot-may-2023/)|
+|CISA (Cybersecurity and Infrastructure Security Agency, United States of America)|[#StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)|
+|Microsoft / Microsoft Threat Intelligence|[Cadet Blizzard emerges as a novel and distinct Russian threat actor](https://www.microsoft.com/en-us/security/blog/2023/06/14/cadet-blizzard-emerges-as-a-novel-and-distinct-russian-threat-actor/)|
+|Trop Chaud|[Link Analysis of 2023 Clop & Related 0Day Exploit Activity](https://kumu.io/TropChaud/aclopalypse#aclopalypse-fixed-layout)|
+|NCSC (National Cyber Security Centre, United Kingdom)|[Cyber Threat Report: UK Legal Sector](https://www.ncsc.gov.uk/files/Cyber-Threat-Report_UK-Legal-Sector.pdf)|
+|Aqua|[GitHub Dataset Research Reveals Millions Potentially Vulnerable to RepoJacking](https://blog.aquasec.com/github-dataset-research-reveals-millions-potentially-vulnerable-to-repojacking)|
+|Dragos|[Dragos Analysis Determines COSMICENERGY Is Not an Immediate Threat](https://hub.dragos.com/intel-brief-dragos-analysis-determines-cosmicenergy-is-not-an-immediate-threat)|
+|WIRED|[The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)|
+|Security Joes|[Process Mockingjay: Echoing RWX In Userland To Achieve Code Execution](https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution)|
+|Cyble|[Trojanized Super Mario Game Installer Spreads SupremeBot Malware](https://blog.cyble.com/2023/06/23/trojanized-super-mario-game-installer-spreads-supremebot-malware/)|
+|NSA (National Security Agency, United States of America)|[BlackLotus Mitigation Guide](https://media.defense.gov/2023/Jun/22/2003245723/-1/-1/0/CSI_BlackLotus_Mitigation_Guide.PDF)|
+|Volexity|[Charming Kitten Updates POWERSTAR with an InterPlanetary Twist](https://www.volexity.com/blog/2023/06/28/charming-kitten-updates-powerstar-with-an-interplanetary-twist/)|
+|Volexity|[3CX Supply Chain Compromise Leads to ICONIC Incident](https://www.volexity.com/blog/2023/03/30/3cx-supply-chain-compromise-leads-to-iconic-incident/)|
