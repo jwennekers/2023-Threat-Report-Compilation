@@ -71,3 +71,7 @@
 |Volexity|[Charming Kitten Updates POWERSTAR with an InterPlanetary Twist](https://www.volexity.com/blog/2023/06/28/charming-kitten-updates-powerstar-with-an-interplanetary-twist/)|
 |Volexity|[3CX Supply Chain Compromise Leads to ICONIC Incident](https://www.volexity.com/blog/2023/03/30/3cx-supply-chain-compromise-leads-to-iconic-incident/)|
 |WIRED|[The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)|
+
+<div align="center">
+<img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
+</div>
