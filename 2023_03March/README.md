@@ -48,3 +48,7 @@
 |VirusTotal|[Lessons learned from 2022](https://blog.virustotal.com/2023/01/lessons-learned-from-2022.html)|
 |VulnCheck|[The VulnCheck 2022 Exploited Vulnerability Report - A Year Long Review of the CISA KEV Catalog](https://vulncheck.com/blog/2022-cisa-kev-review)|
 |Z-CERT|[Cybersecurity Dreigingsbeeld Zorg 2022](https://www.z-cert.nl/wp-content/uploads/2023/03/Z-CERT_RapportDreigingsbeeld2022.pdf)
+
+<div align="center">
+<img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
+</div>
