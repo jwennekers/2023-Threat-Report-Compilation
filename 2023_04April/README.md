@@ -55,3 +55,7 @@
 |Trellix|[Genesis Market No Longer Feeds The Evil Cookie Monster](https://www.trellix.com/en-us/about/newsroom/stories/research/genesis-market-no-longer-feeds-the-evil-cookie-monster.html)|
 |Trellix|[A Royal Analysis of Royal Ransom](https://www.trellix.com/en-us/about/newsroom/stories/research/a-royal-analysis-of-royal-ransom.html)|
 |WiCyS (Women in Cybersecurity)|[The State of Inclusion of Women in Cybersecurity 2023](https://www.wicys.org/wp-content/uploads/2023/03/Executive-Summary-The-State-of-Inclusion-of-Women-in-Cybersecurity.pdf)|
+
+<div align="center">
+<img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
+</div>
