@@ -33,3 +33,7 @@
 |Tesseract Intelligence|[Interesting findings: 13-30 January 2023](https://www.linkedin.com/posts/tesseract- intelligence_interesting-findings-from-telegram-underground-activity-7026134051820351489-Dduu)|
 |Tesseract Intelligence|[Interesting findings: 1 - 15 February 2023](https://www.linkedin.com/posts/tesseract- intelligence_interesting-findings-for-the-first-half-of-activity-7031592962522255360-IzKr/)|
 |Trellix|[Q4 2022 Threat Overview](https://www.trellix.com/en-us/advanced-research-center/threat-reports/feb-2023.html)|
+
+<div align="center">
+<img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
+</div>
