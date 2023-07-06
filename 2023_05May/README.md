@@ -62,3 +62,7 @@
 |Trend Micro|[Rethinking Tactics: Annual Cybersecurity Roundup 2022](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/rethinking-tactics-annual-cybersecurity-roundup-2022)|
 |Trend Micro|[Update Now: PaperCut Vulnerability CVE-2023-27350 Under Active Exploitation](https://www.trendmicro.com/en_us/research/23/d/update-now-papercut-vulnerability-cve-2023-27350-under-active-ex.html)|
 |Trend Micro|[Email Threat Landscape Report: Cybercriminal Tactics, Techniques That Organizations Need to Know](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/annual-trend-micro-email-threats-report)|
+
+<div align="center">
+<img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
+</div>
