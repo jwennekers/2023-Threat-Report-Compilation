@@ -30,3 +30,7 @@ Thirdly, focus on the parts of the reports that are relevant to your (client) or
 * cloud infrastructure that your (client) organisation leverages
 
 And lastly, keep in mind why you’re reading the report — a SOC Analyst requires different information from a threat report to fulfil their job than their CISO, and will thus always look at the data with a different view.
+
+<div align="center">
+<img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
+</div>
