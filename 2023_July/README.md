@@ -10,7 +10,8 @@
 |Group-IB|[Operation Nervone: Group-IB assists INTERPOL-led mission to detain key cybercrime suspect in Côte d’Ivoire](https://www.group-ib.com/media-center/press-releases/operation-nervone/)|
 |ENISA|[ENISA Threat Landscape: Health Sector](https://www.enisa.europa.eu/publications/health-threat-landscape)|
 |amatas|[Cyber Threat Report: June 2023](https://www.amatas.com/reports/cyber-threat-report-june-2023/)|
-|SentinelOne|[Neo_Net | [The Kingpin of Spanish eCrime](https://www.sentinelone.com/blog/neo_net-the-kingpin-of-spanish-ecrime/)|
+|SentinelOne|[Neo_Net: The Kingpin of Spanish eCrime](https://www.sentinelone.com/blog/neo_net-the-kingpin-of-spanish-ecrime/)|
+|SentinelOne|[JumpCloud Intrusion | Attacker Infrastructure Links Compromise to North Korean APT Activity](https://www.sentinelone.com/labs/jumpcloud-intrusion-attacker-infrastructure-links-compromise-to-north-korean-apt-activity/)|
 |Sekoia.io|[Stealc: a copycat of Vidar and Raccoon infostealers gaining in popularity – Part 1](https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-1/)|
 |Sekoia.io|[One Year After: The Cyber Implications of the Russo-Ukrainian War](https://blog.sekoia.io/one-year-after-the-cyber-implications-of-the-russo-ukrainian-war/)|
 |Sekoia.io|[Stealc: a copycat of Vidar and Raccoon infostealers gaining in popularity – Part 2](https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-2/)|
@@ -37,3 +38,6 @@
 |Recorded Future / Insikt Group|[BlueDelta Exploits Ukrainian Government Roundcube Mail Servers to Support Espionage Activities](https://www.recordedfuture.com/bluedelta-exploits-ukrainian-government-roundcube-mail-servers)|
 |CISA (Cybersecurity & Infrastructure Security Agency, United States of America), CCCS (Canadian Centre for Cyber Security, Canada), FBI (Federal Bureau of Investigation, United States of America), MS-ISAC (Multi-State Information Sharing and Analysis Center (United States of America)|[Increased Truebot Activity Infects U.S. and Canada Based Networks](https://www.ic3.gov/Media/News/2023/230707.pdf)|
 |TRM Labs|[How Ransomware Groups Rely On Cheap (Stolen) Data to Launch Extortion Campaigns](https://www.trmlabs.com/post/how-ransomware-groups-rely-on-cheap-stolen-data-to-launch-extortion-campaigns)|
+|Mandiant|[North Korea Leverages SaaS Provider in a Targeted Supply Chain Attack](https://www.mandiant.com/resources/blog/north-korea-supply-chain)|
+|Mandiant|[The GRU's Disruptive Playbook](https://www.mandiant.com/resources/blog/gru-disruptive-playbook)|
+|Tidal Cyber|[Making Waves: TTP Intelligence Highlights in June](https://www.tidalcyber.com/blog/making-waves-ttp-intelligence-highlights-in-june)|
