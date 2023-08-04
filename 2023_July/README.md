@@ -11,7 +11,7 @@
 |ENISA|[ENISA Threat Landscape: Health Sector](https://www.enisa.europa.eu/publications/health-threat-landscape)|
 |amatas|[Cyber Threat Report: June 2023](https://www.amatas.com/reports/cyber-threat-report-june-2023/)|
 |SentinelOne|[Neo_Net: The Kingpin of Spanish eCrime](https://www.sentinelone.com/blog/neo_net-the-kingpin-of-spanish-ecrime/)|
-|SentinelOne|[JumpCloud Intrusion | Attacker Infrastructure Links Compromise to North Korean APT Activity](https://www.sentinelone.com/labs/jumpcloud-intrusion-attacker-infrastructure-links-compromise-to-north-korean-apt-activity/)|
+|SentinelOne|[JumpCloud Intrusion: Attacker Infrastructure Links Compromise to North Korean APT Activity](https://www.sentinelone.com/labs/jumpcloud-intrusion-attacker-infrastructure-links-compromise-to-north-korean-apt-activity/)|
 |Sekoia.io|[Stealc: a copycat of Vidar and Raccoon infostealers gaining in popularity – Part 1](https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-1/)|
 |Sekoia.io|[One Year After: The Cyber Implications of the Russo-Ukrainian War](https://blog.sekoia.io/one-year-after-the-cyber-implications-of-the-russo-ukrainian-war/)|
 |Sekoia.io|[Stealc: a copycat of Vidar and Raccoon infostealers gaining in popularity – Part 2](https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-2/)|
