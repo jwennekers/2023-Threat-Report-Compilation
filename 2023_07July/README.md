@@ -42,3 +42,7 @@
 |TRM Labs|[How Ransomware Groups Rely On Cheap (Stolen) Data to Launch Extortion Campaigns](https://www.trmlabs.com/post/how-ransomware-groups-rely-on-cheap-stolen-data-to-launch-extortion-campaigns)|
 |TRM Labs|[Illicit Crypto EcosystemReport](https://www.trmlabs.com/report)|
 |Uptycs|[Meduza Stealer: What Is It & How Does It Work?](https://www.uptycs.com/blog/what-is-meduza-stealer-and-how-does-it-work)|
+
+<div align="center">
+<img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
+</div>
