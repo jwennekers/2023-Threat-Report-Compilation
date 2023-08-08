@@ -13,3 +13,7 @@
 |Varonis|[What is IDOR (Insecure Direct Object Reference)?](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)|
 |Interpol|[Suspected key figure of notorious cybercrime group arrested in joint operation](https://www.interpol.int/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation)|
 |Check Point|[Chinese Treat Actors Targeting Europe in SmugX Campaign](https://research.checkpoint.com/2023/chinese-threat-actors-targeting-europe-in-smugx-campaign/)|
+
+<div align="center">
+<img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
+</div>
