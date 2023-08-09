@@ -37,40 +37,40 @@
 |30.|Recorded Future|[Private Eyes: China’s Embrace of Open-Source Military Intelligence](https://www.recordedfuture.com/private-eyes-chinas-embrace-open-source-military-intelligence)|
 |31.|Recorded Future / Insikt Group|[North Korea’s Cyber Strategy](https://www.recordedfuture.com/north-koreas-cyber-strategy)|
 |32.|Security Joes|[Process Mockingjay: Echoing RWX In Userland To Achieve Code Execution](https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution)|
-|32.|The DFIR Report|[A Truly Graceful Wipe Out](https://thedfirreport.com/2023/06/12/a-truly-graceful-wipe-out/)|
-|33.|ThreatMon|[Technical Analysis of RDPCredentialStealer: Uncovering Malware Targeting RDP Credentials with API Hooking](https://threatmon.io/technical-analysis-of-rdpcredentialstealer-uncovering-malware-targeting-rdp-credentials-with-api-hooking/)|
-|34.|ThreatMon|[Cyber Threat Report: Analyzing Ransomware and Apt Attacks Targeting Türkiye – May 2023](https://threatmon.io/cyber-threat-report-analyzing-ransomware-and-apt-attack-targeting-turkiye-may-2023/)|
-|35.|ThreatMon|[Threat Analysis: SharpPanda APT’s Attack Chain Targeting G20 Nations](https://threatmon.io/threat-analysis-sharppanda-apts-attack-chain-targeting-g20-nations/)|
-|36.|ThreatMon|[Reverse Engineering RokRAT: A Closer Look at APT37’s Onedrive-Based Attack Vector](https://threatmon.io/reverse-engineering-rokrat-a-closer-look-at-apt37s-onedrive-based-attack-vector/)|
-|37.|ThreatMon|[Behind the Breaches: Mapping Threat Actors and Their CVE Exploits](https://threatmon.io/behind-the-breaches-mapping-threat-actors-and-their-cve-exploits/)|
-|38.|ThreatMon|[Zaraza Bot: The New Russian Credential Stealer](https://threatmon.io/zaraza-bot-the-new-russian-credential-stealer/)|
-|39.|ThreatMon|[Anonymous Sudan: In-Depth Analysis Beyond Hacktivist Attacks](https://threatmon.io/anonymous-sudan-in-depth-analysis-beyond-hacktivist-attacks/)|
-|40.|ThreatMon|[APT41’s Attack Chain: Exe-LolBins Leads to Powershell Backdoor with Telegram C2](https://threatmon.io/apt41s-attack-chain-exe-lolbins-leads-to-powershell-backdoor-with-telegram-c2/)|
-|41.|ThreatMon|[APT Blind Eagles Malware Arsenal Technical Analysis](https://threatmon.io/apt-blind-eagles-malware-arsenal-technical-analysis/)|
-|42.|ThreatMon|[The Rise of Dark Power: A Close Look at the Group and their Ransomware](https://threatmon.io/the-rise-of-dark-power-a-close-look-at-the-group-and-their-ransomware/)|
-|43.|ThreatMon|[IT Army of Ukraine: Analysis of Threat Actors In The Ukraine-Russia War](https://threatmon.io/it-army-of-ukraine-analysis-of-threat-actors-in-the-ukraine-russia-war/)|
-|44.|ThreatMon|[Anonymous Russia: Analysis of Threat Actors in Ukraine-Russia War](https://threatmon.io/anonymous-russia-analysis-of-threat-actors-in-ukraine-russia-war/)|
-|45.|ThreatMon|[Chinotto Backdoor Technical Analysis of the APT Reaper’s Powerful Weapon](https://threatmon.io/chinotto-backdoor-technical-analysis-of-the-apt-reapers-powerful/)|
-|46.|ThreatMon|[Report on Data Leaks Reported in Social Media](https://threatmon.io/report-on-data-leaks-reported-in-social-media/)|
-|47.|ThreatMon|[The Roles of Threat Actors in The Ukraine-Russian War: Noname057(16)](https://threatmon.io/the-roles-of-threat-actors-in-the-ukraine-russian-war-noname05716/)|
-|48.|ThreatMon|[KillNet: In-Depth Analysis on The Roles of Threat Actors and Attacks In The Ukraine-Russia War](https://threatmon.io/killnet-in-depth-analysis-on-the-roles-of-threat-actors-and-attacks-in-the-ukraine-russia-war/)|
-|49.|ThreatMon|[Cybergun: Technical Analysis of the Armageddon’s Infostealer](https://threatmon.io/cybergun-technical-analysis-of-the-armageddons-infostealer/)|
-|50.|ThreatMon|[Beyond Bullets and Bombs: An Examination of Armageddon Group’s Cyber Warfare Against Ukraine](https://threatmon.io/beyond-bullets-and-bombs-an-examination-of-armageddon-groups-cyber-warfare-against-ukraine/)|
-|51.|ThreatMon|[Threat Actors, Phishing Attacks and 2022 Phishing Preview](https://threatmon.io/threat-actors-phishing-attacks-and-2022-phishing-preview/)|
-|52.|ThreatMon|[APT SideCopy Targeting Indian Government Entities](https://threatmon.io/apt-sidecopy-targeting-indian-government-entities/)|
-|53.|ThreatMon|[SwiftSlicer Wiper Malware Analysis Report](https://threatmon.io/swiftslicer-wiper-malware-analysis-report/)|
-|54.|ThreatMon|[DoNot Team (APT-C-35) Analysis of Latest Campaign](https://threatmon.io/donot-team-apt-c-35-analysis-of-latest-campaing/)|
-|55.|ThreatMon|[The Global Cyber Security Intelligence Risk Report 2023](https://threatmon.io/the-global-cyber-security-intelligence-risk-report-2023/)|
-|56.|ThreatMon|[ThreatMon Ransomware Group Activity Report: 13.01.2023-27.01.2023](https://threatmon.io/threatmon-ransomware-group-activity-report-13-01-2023-27-01-2023/)|
-|57.|ThreatMon|[ThreatMon Ransomware Group Activity Report: 01.01.2023-13.01.2023](https://threatmon.io/threatmon-ransomware-group-report-01-01-2023-13-01-2023/)|
-|58.|ThreatMon|[ThreatMon Ransomware Group Activity Report: 18.12.2022– 01.01.2022](https://threatmon.io/threatmon-ransomware-group-activity-report-18-12-2022-01-01-2022/)|
-|59.|Trellix|[Skuld: The Infostealer that Speaks Golang](https://www.trellix.com/en-us/about/newsroom/stories/research/skuld-the-infostealer-that-speaks-golang.html)|
-|60.|Trellix|[The Trellix CyberThreat Report (Q1 2023)](https://www.trellix.com/en-us/advanced-research-center/threat-reports/jun-2023.html)|
-|61.|Trop Chaud|[Link Analysis of 2023 Clop & Related 0Day Exploit Activity](https://kumu.io/TropChaud/aclopalypse#aclopalypse-fixed-layout)|
-|62.|Verizon|[2023 Data Breach Investigations Report (DBIR)](https://www.verizon.com/business/resources/T1d4/reports/2023-data-breach-investigations-report-dbir.pdf)|
-|63.|Volexity|[Charming Kitten Updates POWERSTAR with an InterPlanetary Twist](https://www.volexity.com/blog/2023/06/28/charming-kitten-updates-powerstar-with-an-interplanetary-twist/)|
-|64.|Volexity|[3CX Supply Chain Compromise Leads to ICONIC Incident](https://www.volexity.com/blog/2023/03/30/3cx-supply-chain-compromise-leads-to-iconic-incident/)|
-|65.|WIRED|[The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)|
+|33.|The DFIR Report|[A Truly Graceful Wipe Out](https://thedfirreport.com/2023/06/12/a-truly-graceful-wipe-out/)|
+|34.|ThreatMon|[Technical Analysis of RDPCredentialStealer: Uncovering Malware Targeting RDP Credentials with API Hooking](https://threatmon.io/technical-analysis-of-rdpcredentialstealer-uncovering-malware-targeting-rdp-credentials-with-api-hooking/)|
+|35.|ThreatMon|[Cyber Threat Report: Analyzing Ransomware and Apt Attacks Targeting Türkiye – May 2023](https://threatmon.io/cyber-threat-report-analyzing-ransomware-and-apt-attack-targeting-turkiye-may-2023/)|
+|36.|ThreatMon|[Threat Analysis: SharpPanda APT’s Attack Chain Targeting G20 Nations](https://threatmon.io/threat-analysis-sharppanda-apts-attack-chain-targeting-g20-nations/)|
+|37.|ThreatMon|[Reverse Engineering RokRAT: A Closer Look at APT37’s Onedrive-Based Attack Vector](https://threatmon.io/reverse-engineering-rokrat-a-closer-look-at-apt37s-onedrive-based-attack-vector/)|
+|38.|ThreatMon|[Behind the Breaches: Mapping Threat Actors and Their CVE Exploits](https://threatmon.io/behind-the-breaches-mapping-threat-actors-and-their-cve-exploits/)|
+|39.|ThreatMon|[Zaraza Bot: The New Russian Credential Stealer](https://threatmon.io/zaraza-bot-the-new-russian-credential-stealer/)|
+|40.|ThreatMon|[Anonymous Sudan: In-Depth Analysis Beyond Hacktivist Attacks](https://threatmon.io/anonymous-sudan-in-depth-analysis-beyond-hacktivist-attacks/)|
+|41.|ThreatMon|[APT41’s Attack Chain: Exe-LolBins Leads to Powershell Backdoor with Telegram C2](https://threatmon.io/apt41s-attack-chain-exe-lolbins-leads-to-powershell-backdoor-with-telegram-c2/)|
+|42.|ThreatMon|[APT Blind Eagles Malware Arsenal Technical Analysis](https://threatmon.io/apt-blind-eagles-malware-arsenal-technical-analysis/)|
+|43.|ThreatMon|[The Rise of Dark Power: A Close Look at the Group and their Ransomware](https://threatmon.io/the-rise-of-dark-power-a-close-look-at-the-group-and-their-ransomware/)|
+|44.|ThreatMon|[IT Army of Ukraine: Analysis of Threat Actors In The Ukraine-Russia War](https://threatmon.io/it-army-of-ukraine-analysis-of-threat-actors-in-the-ukraine-russia-war/)|
+|45.|ThreatMon|[Anonymous Russia: Analysis of Threat Actors in Ukraine-Russia War](https://threatmon.io/anonymous-russia-analysis-of-threat-actors-in-ukraine-russia-war/)|
+|46.|ThreatMon|[Chinotto Backdoor Technical Analysis of the APT Reaper’s Powerful Weapon](https://threatmon.io/chinotto-backdoor-technical-analysis-of-the-apt-reapers-powerful/)|
+|47.|ThreatMon|[Report on Data Leaks Reported in Social Media](https://threatmon.io/report-on-data-leaks-reported-in-social-media/)|
+|48.|ThreatMon|[The Roles of Threat Actors in The Ukraine-Russian War: Noname057(16)](https://threatmon.io/the-roles-of-threat-actors-in-the-ukraine-russian-war-noname05716/)|
+|49.|ThreatMon|[KillNet: In-Depth Analysis on The Roles of Threat Actors and Attacks In The Ukraine-Russia War](https://threatmon.io/killnet-in-depth-analysis-on-the-roles-of-threat-actors-and-attacks-in-the-ukraine-russia-war/)|
+|50.|ThreatMon|[Cybergun: Technical Analysis of the Armageddon’s Infostealer](https://threatmon.io/cybergun-technical-analysis-of-the-armageddons-infostealer/)|
+|51.|ThreatMon|[Beyond Bullets and Bombs: An Examination of Armageddon Group’s Cyber Warfare Against Ukraine](https://threatmon.io/beyond-bullets-and-bombs-an-examination-of-armageddon-groups-cyber-warfare-against-ukraine/)|
+|52.|ThreatMon|[Threat Actors, Phishing Attacks and 2022 Phishing Preview](https://threatmon.io/threat-actors-phishing-attacks-and-2022-phishing-preview/)|
+|53.|ThreatMon|[APT SideCopy Targeting Indian Government Entities](https://threatmon.io/apt-sidecopy-targeting-indian-government-entities/)|
+|54.|ThreatMon|[SwiftSlicer Wiper Malware Analysis Report](https://threatmon.io/swiftslicer-wiper-malware-analysis-report/)|
+|55.|ThreatMon|[DoNot Team (APT-C-35) Analysis of Latest Campaign](https://threatmon.io/donot-team-apt-c-35-analysis-of-latest-campaing/)|
+|56.|ThreatMon|[The Global Cyber Security Intelligence Risk Report 2023](https://threatmon.io/the-global-cyber-security-intelligence-risk-report-2023/)|
+|57.|ThreatMon|[ThreatMon Ransomware Group Activity Report: 13.01.2023-27.01.2023](https://threatmon.io/threatmon-ransomware-group-activity-report-13-01-2023-27-01-2023/)|
+|58.|ThreatMon|[ThreatMon Ransomware Group Activity Report: 01.01.2023-13.01.2023](https://threatmon.io/threatmon-ransomware-group-report-01-01-2023-13-01-2023/)|
+|59.|ThreatMon|[ThreatMon Ransomware Group Activity Report: 18.12.2022– 01.01.2022](https://threatmon.io/threatmon-ransomware-group-activity-report-18-12-2022-01-01-2022/)|
+|60.|Trellix|[Skuld: The Infostealer that Speaks Golang](https://www.trellix.com/en-us/about/newsroom/stories/research/skuld-the-infostealer-that-speaks-golang.html)|
+|61.|Trellix|[The Trellix CyberThreat Report (Q1 2023)](https://www.trellix.com/en-us/advanced-research-center/threat-reports/jun-2023.html)|
+|62.|Trop Chaud|[Link Analysis of 2023 Clop & Related 0Day Exploit Activity](https://kumu.io/TropChaud/aclopalypse#aclopalypse-fixed-layout)|
+|63.|Verizon|[2023 Data Breach Investigations Report (DBIR)](https://www.verizon.com/business/resources/T1d4/reports/2023-data-breach-investigations-report-dbir.pdf)|
+|64.|Volexity|[Charming Kitten Updates POWERSTAR with an InterPlanetary Twist](https://www.volexity.com/blog/2023/06/28/charming-kitten-updates-powerstar-with-an-interplanetary-twist/)|
+|65.|Volexity|[3CX Supply Chain Compromise Leads to ICONIC Incident](https://www.volexity.com/blog/2023/03/30/3cx-supply-chain-compromise-leads-to-iconic-incident/)|
+|66.|WIRED|[The Untold Story of the Boldest Supply-Chain Hack Ever](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
