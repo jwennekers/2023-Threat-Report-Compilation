@@ -30,8 +30,8 @@
 |24.|Red Canary|[January’s digest: credential access, Google workspace, Microsoft Sentinel & more](https://www.linkedin.com/pulse/januarys-digest-credential-access-google-workspace-microsoft-/)|
 |25.|Red Canary|[Intelligence Insight: Tax- themed phishing emails delivering GuLoader](https://redcanary.com/blog/tax-season-phishing/)|
 |26.|Red Canary|[Intelligence Insights: February 2023](https://redcanary.com/blog/intelligence-insights-february- 2023/)|
-|27.|Tesseract Intelligence|[Interesting findings: 13-30 January 2023](https://www.linkedin.com/posts/tesseract- intelligence_interesting-findings-from-telegram-underground-activity-7026134051820351489-Dduu)|
-|28.|Tesseract Intelligence|[Interesting findings: 1 - 15 February 2023](https://www.linkedin.com/posts/tesseract- intelligence_interesting-findings-for-the-first-half-of-activity-7031592962522255360-IzKr/)|
+|27.|Tesseract Intelligence|[Interesting findings: 13-30 January 2023](https://www.linkedin.com/posts/tesseract-intelligence_interesting-findings-from-telegram-underground-activity-7026134051820351489-Dduu)|
+|28.|Tesseract Intelligence|[Interesting findings: 1 - 15 February 2023](https://www.linkedin.com/posts/tesseract-intelligence_interesting-findings-for-the-first-half-of-activity-7031592962522255360-IzKr/)|
 |29.|Trellix|[Q4 2022 Threat Overview](https://www.trellix.com/en-us/advanced-research-center/threat-reports/feb-2023.html)|
 
 <div align="center">
