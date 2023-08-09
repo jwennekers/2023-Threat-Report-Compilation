@@ -66,6 +66,7 @@
 |Guardz|[The Massive macOS Threats Trending in the Dark Web](https://guardz.com/blog/the-massive-macos-threats-trending-in-the-dark-web)|
 |CrowdStrike|[2023 Threat Hunting Report](https://www.crowdstrike.com/resources/reports/threat-hunting-report/)|
 |Picus|[The Blue Report 2023](https://www.picussecurity.com/resource/report/blue-report-2023)|
+|Picus|[Securing macOS: A Closer Look At Built-In macOS Application Security](https://www.picussecurity.com/resource/blog/securing-macos-a-closer-look-at-built-in-macos-application-security)|
 |SentinelOne|[Apple Crimeware: Massive Rust Infostealer Campaign Aiming for macOS Sonoma Ahead of Public Release](https://www.sentinelone.com/blog/apple-crimeware-massive-rust-infostealer-campaign-aiming-for-macos-sonoma-ahead-of-public-release/)|
 |OPSWAT|[2023 State of Web Application Security](https://www.opswat.com/resources/reports/2023-state-of-web-application-security)|
 |Rapid7|[Rapid7 2022 Vulnerability Intelligence Report](https://www.rapid7.com/globalassets/_pdfs/2022-vulnerability-intelligence-report.pdf)|
@@ -85,7 +86,13 @@
 |Group-IB|[Group-IB supports international police operation targeting 16shop, a popular phishing-as-a-service platform](https://www.group-ib.com/media-center/press-releases/interpol-16shop/)|
 |New York Times|[U.S. Hunts Chinese Malware That Could Disrupt American Military Operations](https://www.nytimes.com/2023/07/29/us/politics/china-malware-us-military-bases-taiwan.html)|
 |KELA|[Ransomware Victims and Network Access Sales in Q1 2023](https://www.kelacyber.com/wp-content/uploads/2023/04/KELA_Research_Q1-2023_ransomware-and-network-access-sales.pdf)|
-
+|HM Government (United Kingdom)|[National Risk Register 2023](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1175834/2023_NATIONAL_RISK_REGISTER_NRR.pdf)|
+|BlackBerry|[Global Threat Intelligence Report: March 1 – May 31, 2023](https://www.blackberry.com/us/en/solutions/threat-intelligence/2023/threat-intelligence-report-august)|
+|Checkmarx|[Lazarus Group Launches First Open Source Supply Chain Attacks Targeting Crypto Sector](https://medium.com/checkmarx-security/lazarus-group-launches-first-open-source-supply-chain-attacks-targeting-crypto-sector-cabc626e404e)|
+|Checkmarx|[Software Supply Chain Security Threat Landscape: July 2023 Overview](https://www.linkedin.com/posts/tzachi-zornstain_july-2023-monthly-report-summary-activity-7094325136102727680-ec0K)|
+|Checkmarx|[Manifest Confusion: Don’t Believe What You See; How Attackers Can Trick Developers](https://medium.com/checkmarx-security/manifest-confusion-dont-believe-what-you-see-how-attackers-can-trick-developers-c3c6419f3ae4)|
+|Checkmarx|[First Known Targeted OSS Supply Chain Attacks Against the Banking Sector](https://checkmarx.com/blog/first-known-targeted-oss-supply-chain-attacks-against-the-banking-sector/)|
+|VulnCheck|[Exploiting MikroTik RouterOS Hardware with CVE-2023-30799](https://vulncheck.com/blog/mikrotik-foisted-revisited)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
