@@ -29,6 +29,28 @@
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 24, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-24-2023/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 23, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-23-2023/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 22, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-22-2023/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 21, 2023](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-21-2023/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 20](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-20-2/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 19](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-19/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 18](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-18/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 17](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-17/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 16](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-16/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 15](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-15/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 14](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-14/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 13](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-13/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 12](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-12/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 11](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-11/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 10](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-10/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 09](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-09/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 08](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-08/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 07](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-07/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 06](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-05-2/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 05](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-05/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 04](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-04/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 03](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-03/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 02](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-02/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 01](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-01/)|
+
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
