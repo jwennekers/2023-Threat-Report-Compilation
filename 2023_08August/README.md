@@ -50,6 +50,41 @@
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 03](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-03/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 02](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-02/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 01](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-01/)|
+|amatas|[Cyber Threat Report: July 2023](https://www.amatas.com/reports/cyber-threat-report-july-2023/)|
+|Trend Micro|[Related CherryBlos and FakeTrade Android Malware Involved in Scam Campaigns](https://www.trendmicro.com/en_us/research/23/g/cherryblos-and-faketrade-android-malware-involved-in-scam-campai.html)|
+|Kasada|[No Honour Amongst Thieves: Unpacking a New OpenBullet Malware Campaign](https://www.kasada.io/threat-intel-openbullet-malware/)|
+|Intel471|[The 471 Cyber Threat Report 2023-24](https://intel471.com/resources/whitepapers/the-471-cyber-threat-report-2023)|
+|Intel471|[Open Source Release of Intel 471 Intelligence Requirements Framework](https://intel471.com/blog/open-source-release-of-intel-471-intelligence-requirements-framework)|
+|Google (Google Cybersecurity Action Team (GCAT))|[August 2023 Threat Horizons Report](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_jul2023.pdf)|
+|White Knight Labs|[Unleashing the Unseen: Harnessing the Power of Cobalt Strike Profiles for EDR Evasion](https://whiteknightlabs.com/2023/05/23/unleashing-the-unseen-harnessing-the-power-of-cobalt-strike-profiles-for-edr-evasion/)|
+|Microsoft (Microsoft Incident Response)|[The five-day job: A BlackByte ransomware intrusion case study](https://www.microsoft.com/en-us/security/blog/2023/07/06/the-five-day-job-a-blackbyte-ransomware-intrusion-case-study/)|
+|Microsoft (Microsoft Threat Intelligence)|[Midnight Blizzard conducts targeted social engineering over Microsoft Teams](https://www.microsoft.com/en-us/security/blog/2023/08/02/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams/)|
+|Kaspersky|[APT trends report Q2 2023](https://securelist.com/apt-trends-report-q2-2023/110231/)|
+|Kaspersky|[Kaspersky uncovers malware for targeted data exfiltration from air-gapped environments](https://usa.kaspersky.com/about/press-releases/2023_kaspersky-uncovers-malware-for-targeted-data-exfiltration-from-air-gapped-environments)|
+|Mandiant|[Better Together: The Benefits of Integrating Cyber Threat Intelligence and Risk Management](https://services.google.com/fh/files/misc/better-together-cyber-risk-whitepaper-mandiant.pdf)|
+|halcyon|[Report: Ransomware Command-and-Control Providers Unmasked by Halcyon Researchers](https://www.halcyon.ai/blog/report-ransomware-command-and-control-providers-unmasked-by-halcyon-researchers)|
+|Guardz|[The Massive macOS Threats Trending in the Dark Web](https://guardz.com/blog/the-massive-macos-threats-trending-in-the-dark-web)|
+|CrowdStrike|[2023 Threat Hunting Report](https://www.crowdstrike.com/resources/reports/threat-hunting-report/)|
+|Picus|[The Blue Report 2023](https://www.picussecurity.com/resource/report/blue-report-2023)|
+|SentinelOne|[Apple Crimeware: Massive Rust Infostealer Campaign Aiming for macOS Sonoma Ahead of Public Release](https://www.sentinelone.com/blog/apple-crimeware-massive-rust-infostealer-campaign-aiming-for-macos-sonoma-ahead-of-public-release/)|
+|OPSWAT|[2023 State of Web Application Security](https://www.opswat.com/resources/reports/2023-state-of-web-application-security)|
+|Rapid7|[Rapid7 2022 Vulnerability Intelligence Report](https://www.rapid7.com/globalassets/_pdfs/2022-vulnerability-intelligence-report.pdf)|
+|Check Point|[Is Your Peloton Attracting Security Threats?](https://blog.checkpoint.com/security/is-your-peloton-attracting-security-threats/)|
+|Apple|[About the security content of iOS 16.6 and iPadOS 16.6](https://support.apple.com/en-us/HT213841)|
+|KnowBe4|[2023 Phishing by Industry Benchmarking Report](https://info.knowbe4.com/phishing-by-industry-benchmarking-report)|
+|Sekoia.io|[CustomerLoader: a new malware distributing a wide variety of payloads](https://blog.sekoia.io/customerloader-a-new-malware-distributing-a-wide-variety-of-payloads/#more)|
+|Sophos|[Into the tank with Nitrogen](https://news.sophos.com/en-us/2023/07/26/into-the-tank-with-nitrogen/)|
+|Rezilion|[CVSS, EPSS, KEV: The New Acronyms - And The Intelligence - You Need For Effective Vulnerability Management](https://info.rezilion.com/high-risk-vulnerabilities-missing-from-cisa-kev-catalog)|
+|Recorded Future / Insikt|[BlueCharlie, Previously Tracked as TAG-53, Continues to Deploy New Infrastructure in 2023](https://www.recordedfuture.com/bluecharlie-previously-tracked-as-tag-53-continues-to-deploy-new-infrastructure-in-2023)|
+|Recorded Future / Insikt|[RedHotel: A Prolific, Chinese State-Sponsored Group Operating at a Global Scale](https://www.recordedfuture.com/redhotel-a-prolific-chinese-state-sponsored-group-operating-at-a-global-scale)|
+|SlashNext|[AI-Based Cybercrime Tools WormGPT and FraudGPT Could Be The Tip of the Iceberg](https://slashnext.com/blog/ai-based-cybercrime-tools-wormgpt-and-fraudgpt-could-be-the-tip-of-the-iceberg/)|
+|SynSaber|[ICS CVE Research:First Half of 2023](https://synsaber.com/resources/research-reports/ics-cve-reports/ics-cve-research-first-half-2023/)|
+|Kroll|[Proof of Concept Developed for Ghostscript CVE-2023-36664 Code Execution Vulnerability](https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability)|
+|GuidePoint|[Tunnel Vision: CloudflareD AbuseD in the WilD](https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/)|
+|Dragos|[2022 ICS/OT Cybersecurity Year in Review - FOCUS on Europe](https://hub.dragos.com/ics-cybersecurity-year-in-review-executive-summary-eu-2022)|
+|Group-IB|[Group-IB supports international police operation targeting 16shop, a popular phishing-as-a-service platform](https://www.group-ib.com/media-center/press-releases/interpol-16shop/)|
+|New York Times|[U.S. Hunts Chinese Malware That Could Disrupt American Military Operations](https://www.nytimes.com/2023/07/29/us/politics/china-malware-us-military-bases-taiwan.html)|
+|KELA|[Ransomware Victims and Network Access Sales in Q1 2023](https://www.kelacyber.com/wp-content/uploads/2023/04/KELA_Research_Q1-2023_ransomware-and-network-access-sales.pdf)|
 
 
 <div align="center">
