@@ -76,8 +76,9 @@
 |Sekoia.io|[CustomerLoader: a new malware distributing a wide variety of payloads](https://blog.sekoia.io/customerloader-a-new-malware-distributing-a-wide-variety-of-payloads/#more)|
 |Sophos|[Into the tank with Nitrogen](https://news.sophos.com/en-us/2023/07/26/into-the-tank-with-nitrogen/)|
 |Rezilion|[CVSS, EPSS, KEV: The New Acronyms - And The Intelligence - You Need For Effective Vulnerability Management](https://info.rezilion.com/high-risk-vulnerabilities-missing-from-cisa-kev-catalog)|
-|Recorded Future / Insikt|[BlueCharlie, Previously Tracked as TAG-53, Continues to Deploy New Infrastructure in 2023](https://www.recordedfuture.com/bluecharlie-previously-tracked-as-tag-53-continues-to-deploy-new-infrastructure-in-2023)|
-|Recorded Future / Insikt|[RedHotel: A Prolific, Chinese State-Sponsored Group Operating at a Global Scale](https://www.recordedfuture.com/redhotel-a-prolific-chinese-state-sponsored-group-operating-at-a-global-scale)|
+|Recorded Future / Insikt Group|[BlueCharlie, Previously Tracked as TAG-53, Continues to Deploy New Infrastructure in 2023](https://www.recordedfuture.com/bluecharlie-previously-tracked-as-tag-53-continues-to-deploy-new-infrastructure-in-2023)|
+|Recorded Future / Insikt Group|[BlueBravo Adapts to Target Diplomatic Entities with GraphicalProton Malware](https://www.recordedfuture.com/bluebravo-adapts-to-target-diplomatic-entities-with-graphicalproton-malware)|
+|Recorded Future / Insikt Group|[RedHotel: A Prolific, Chinese State-Sponsored Group Operating at a Global Scale](https://www.recordedfuture.com/redhotel-a-prolific-chinese-state-sponsored-group-operating-at-a-global-scale)|
 |SlashNext|[AI-Based Cybercrime Tools WormGPT and FraudGPT Could Be The Tip of the Iceberg](https://slashnext.com/blog/ai-based-cybercrime-tools-wormgpt-and-fraudgpt-could-be-the-tip-of-the-iceberg/)|
 |SynSaber|[ICS CVE Research:First Half of 2023](https://synsaber.com/resources/research-reports/ics-cve-reports/ics-cve-research-first-half-2023/)|
 |Kroll|[Proof of Concept Developed for Ghostscript CVE-2023-36664 Code Execution Vulnerability](https://www.kroll.com/en/insights/publications/cyber/ghostscript-cve-2023-36664-remote-code-execution-vulnerability)|
@@ -93,6 +94,10 @@
 |Checkmarx|[Manifest Confusion: Don’t Believe What You See; How Attackers Can Trick Developers](https://medium.com/checkmarx-security/manifest-confusion-dont-believe-what-you-see-how-attackers-can-trick-developers-c3c6419f3ae4)|
 |Checkmarx|[First Known Targeted OSS Supply Chain Attacks Against the Banking Sector](https://checkmarx.com/blog/first-known-targeted-oss-supply-chain-attacks-against-the-banking-sector/)|
 |VulnCheck|[Exploiting MikroTik RouterOS Hardware with CVE-2023-30799](https://vulncheck.com/blog/mikrotik-foisted-revisited)|
+|Team Cymru|[Voice of a Threat Hunter Report](https://www.team-cymru.com/gate/voice-of-a-threat-hunter-report)|
+|World Economic Forum|[Chief Risk Officers Outlook: July 2023](https://www3.weforum.org/docs/WEF_Chief_Risk_Officers_Outlook_2023.pdf)|
+|CBS (Centraal Bureau voor de Statistiek, the Netherlands)|[Cybersecuritymonitor 2022 (Dutch only)](https://www.cbs.nl/nl-nl/publicatie/2023/31/cybersecuritymonitor-2022)|
+|ChainAnalysis|[2023 Crypto Crime Report](https://go.chainalysis.com/2023-crypto-crime-report.html)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
