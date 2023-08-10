@@ -9,6 +9,7 @@
 |HYAS|[EyeSpy: Cognitive Threat Agent](https://www.hyas.com/hubfs/HYAS_EyeSpy_Proof_of_Concept.pdf)|
 |Pradeo|[Two spyware tied with China found hiding on the Google Play Store](https://blog.pradeo.com/spyware-tied-china-found-google-play-store)|
 |Palo Alto / Unit42|[Threat Group Assessment: Mallox Ransomware](https://unit42.paloaltonetworks.com/mallox-ransomware/)|
+|Palo Alto / Unit42|[Ransomware Delivery URLs: Top Campaigns and Trends](https://unit42.paloaltonetworks.com/url-delivered-ransomware/)|
 |Progress|[MOVEit Transfer Service Pack (July 2023)](https://community.progress.com/s/article/MOVEit-Transfer-Service-Pack-July-2023)|
 |Varonis|[What is IDOR (Insecure Direct Object Reference)?](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)|
 |Interpol|[Suspected key figure of notorious cybercrime group arrested in joint operation](https://www.interpol.int/News-and-Events/News/2023/Suspected-key-figure-of-notorious-cybercrime-group-arrested-in-joint-operation)|
@@ -93,11 +94,17 @@
 |Checkmarx|[Software Supply Chain Security Threat Landscape: July 2023 Overview](https://www.linkedin.com/posts/tzachi-zornstain_july-2023-monthly-report-summary-activity-7094325136102727680-ec0K)|
 |Checkmarx|[Manifest Confusion: Don’t Believe What You See; How Attackers Can Trick Developers](https://medium.com/checkmarx-security/manifest-confusion-dont-believe-what-you-see-how-attackers-can-trick-developers-c3c6419f3ae4)|
 |Checkmarx|[First Known Targeted OSS Supply Chain Attacks Against the Banking Sector](https://checkmarx.com/blog/first-known-targeted-oss-supply-chain-attacks-against-the-banking-sector/)|
+|Checkmarx|[Popular NuGet Package “Moq” Silently Exfiltrates User Data to Cloud Service](https://medium.com/checkmarx-security/popular-nuget-package-moq-silently-exfiltrates-user-data-to-cloud-service-d1888867406d)|
 |VulnCheck|[Exploiting MikroTik RouterOS Hardware with CVE-2023-30799](https://vulncheck.com/blog/mikrotik-foisted-revisited)|
 |Team Cymru|[Voice of a Threat Hunter Report](https://www.team-cymru.com/gate/voice-of-a-threat-hunter-report)|
 |World Economic Forum|[Chief Risk Officers Outlook: July 2023](https://www3.weforum.org/docs/WEF_Chief_Risk_Officers_Outlook_2023.pdf)|
 |CBS (Centraal Bureau voor de Statistiek, the Netherlands)|[Cybersecuritymonitor 2022 (Dutch only)](https://www.cbs.nl/nl-nl/publicatie/2023/31/cybersecuritymonitor-2022)|
 |ChainAnalysis|[2023 Crypto Crime Report](https://go.chainalysis.com/2023-crypto-crime-report.html)|
+|CISA (Cybersecurity & Infrastructure Security Agency, the United States of America), FBI (Federal Bureau of Investigation, the United States of America), ACSC (Australian Cyber Security Centre, Australia), CCCS (Canadian Centre for Cyber Security, Canada), NZ-NCSC (New Zealand National Cyber Security Centre), CERT-NZ (Computer Emergency Response Team New Zealand), NCSC-UK (National Cyber Security Centre, United Kingdom)|[2022 Top Routinely Exploited Vulnerabilities](https://media.defense.gov/2023/Aug/03/2003273618/-1/-1/0/JOINT-CSA-2022-TOP-ROUTINELY-EXPLOITED-VULNERABILITIES.PDF)|
+|Positive Technologies|[Space Pirates: a look into the group's unconventional techniques, new attack vectors, and tools](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/space-pirates-a-look-into-the-group-s-unconventional-techniques-new-attack-vectors-and-tools/)|
+|Kim Zetter|[Updates and Timeline for 3CX and X_Trader Hacks](https://zetter.substack.com/p/updates-and-timeline-for-3cx-and)|
+|Adam Chester|[PNG Steganography from First Principles](https://blog.xpnsec.com/png-steganography/)|
+|Malwarebytes|[Microsoft Teams used in phishing campaign to bypass multi-factor authentication](https://www.malwarebytes.com/blog/news/2023/08/microsoft-teams-used-in-phishing-campaign-to-bypass-multi-factor-authentication)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
