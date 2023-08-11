@@ -115,7 +115,7 @@
 |Qi AN Xin (奇安信)(QAX)|[2023 Mid-year Global APT Report (全球高级持续性威胁(APT)2023年中报告](https://ti.qianxin.com/uploads/2023/07/20/fcd50f2540db9ca6fb91b192c0fe2a4c.pdf)|
 |Natto Team|[China as a Target of Cyberattacks: What China Says About Who Are in Their Systems](https://nattothoughts.substack.com/p/china-as-a-target-of-cyberattacks)|
 |mend.io|[There’s a New Stealer Variant in Town, and It’s Using Electron to Stay Fully Undetected](https://www.mend.io/blog/theres-a-new-stealer-variant-in-town-and-its-using-electron-to-stay-fully-undetected/)|
-|Wiz|[2023 Cloud Security Threat Report]|(https://www.wiz.io/lp/2023-cloud-security-threat-report)|
+|Wiz|[2023 Cloud Security Threat Report](https://www.wiz.io/lp/2023-cloud-security-threat-report)|
 |Proofpoint|[Cloud Account Takeover Campaign Leveraging EvilProxy Targets Top-Level Executives at over 100 Global Organizations](https://www.proofpoint.com/uk/blog/email-and-cloud-threats/cloud-account-takeover-campaign-leveraging-evilproxy-targets-top-level)
 |ODNI (Office of the Director of  National Intelligence United State of America)|[2023 National Intelligence Strategy](https://www.odni.gov/index.php/newsroom/reports-publications/reports-publications-2023/item/2402-2023-national-intelligence-strategy)|
 |CISA (Cybersecurity & Infrastructure Security Agency, the United States of America)|[MAR-10454006.r4.v2 SEASPY and WHIRLPOOL Backdoors](https://www.cisa.gov/news-events/analysis-reports/ar23-221a)|
@@ -138,6 +138,37 @@
 |Picus|[July 2023: Key Threat Actors, Malware and Exploited Vulnerabilities](https://www.picussecurity.com/resource/blog/july-2023-key-threat-actors-malware-and-exploited-vulnerabilities)|
 |Picus|[Picus Cyber Threat Intelligence Report June 2023: Key Threat Actors, Regions and Industries at Risk](https://www.picussecurity.com/resource/blog/picus-cyber-threat-intelligence-report-june-2023)|
 |Picus|[Picus Cyber Threat Intelligence Report May 2023: Key Threat Actors, Vulnerable Regions, and Industries at Risk](https://www.picussecurity.com/resource/blog/key-threat-actors-vulnerable-regions-and-industries-at-risk)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 1, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-1-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 2, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-2-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 3, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-3-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 4, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-4-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 5, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-5-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 6, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-6-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 7, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-7-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 8, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-8-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 9, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-9-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 10, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-10-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 11, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-11-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 12, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-12-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 13, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-13-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 14, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-14-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 15, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-15-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 16, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-16-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 17, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-17-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 18, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-18-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 19, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-19-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 20, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-20-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 21, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-21-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 23, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-23-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 22, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-22-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 24, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-24-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 25, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-25-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 26, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-26-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 27, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-27-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 28, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-28-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 29, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-29-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 30, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-30-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 31, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-31-2023)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
