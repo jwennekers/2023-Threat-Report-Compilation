@@ -105,6 +105,39 @@
 |Kim Zetter|[Updates and Timeline for 3CX and X_Trader Hacks](https://zetter.substack.com/p/updates-and-timeline-for-3cx-and)|
 |Adam Chester|[PNG Steganography from First Principles](https://blog.xpnsec.com/png-steganography/)|
 |Malwarebytes|[Microsoft Teams used in phishing campaign to bypass multi-factor authentication](https://www.malwarebytes.com/blog/news/2023/08/microsoft-teams-used-in-phishing-campaign-to-bypass-multi-factor-authentication)|
+|ESET|[MoustachedBouncer: Espionage against foreign diplomats in Belarus](https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/)|
+|CERT-EU|[2023 Q2 Threat Landscape Report](https://cert.europa.eu/static/threat-intelligence/TLP-CLEAR-TLR2023-Q2-ExecSum-1.0.pdf)|
+|Cycode|[VS Code’s Token Security: Keeping Your Secrets… Not So Secretly](https://cycode.com/blog/exposing-vscode-secrets/)|
+|Microsoft|[Microsoft Exchange Server Elevation of Privilege Vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21709)|
+|Bun­des­amt für Ver­fas­sungs­schutz (Germany)|[BfV Cyber-Brief Nr. 01/2023](https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/cyberabwehr/2023-01-bfv-cyber-brief.pdf?__blob=publicationFile&v=2)|
+|Zscaler|[Statc Stealer: Decoding the Elusive Malware Threat](https://www.zscaler.com/blogs/security-research/statc-stealer-decoding-elusive-malware-threat)|
+|Midnight Blue|[TETRA:BURST](https://tetraburst.com/)|
+|Qi AN Xin (奇安信)(QAX)|[2023 Mid-year Global APT Report (全球高级持续性威胁(APT)2023年中报告](https://ti.qianxin.com/uploads/2023/07/20/fcd50f2540db9ca6fb91b192c0fe2a4c.pdf)|
+|Natto Team|[China as a Target of Cyberattacks: What China Says About Who Are in Their Systems](https://nattothoughts.substack.com/p/china-as-a-target-of-cyberattacks)|
+|mend.io|[There’s a New Stealer Variant in Town, and It’s Using Electron to Stay Fully Undetected](https://www.mend.io/blog/theres-a-new-stealer-variant-in-town-and-its-using-electron-to-stay-fully-undetected/)|
+|Wiz|[2023 Cloud Security Threat Report]|(https://www.wiz.io/lp/2023-cloud-security-threat-report)|
+|Proofpoint|[Cloud Account Takeover Campaign Leveraging EvilProxy Targets Top-Level Executives at over 100 Global Organizations](https://www.proofpoint.com/uk/blog/email-and-cloud-threats/cloud-account-takeover-campaign-leveraging-evilproxy-targets-top-level)
+|ODNI (Office of the Director of  National Intelligence United State of America)|[2023 National Intelligence Strategy](https://www.odni.gov/index.php/newsroom/reports-publications/reports-publications-2023/item/2402-2023-national-intelligence-strategy)|
+|CISA (Cybersecurity & Infrastructure Security Agency, the United States of America)|[MAR-10454006.r4.v2 SEASPY and WHIRLPOOL Backdoors](https://www.cisa.gov/news-events/analysis-reports/ar23-221a)|
+|CISA (Cybersecurity & Infrastructure Security Agency, the United States of America)|[MAR-10454006-r1.v2 SUBMARINE Backdoor](https://www.cisa.gov/news-events/analysis-reports/ar23-209a)|
+|CISA (Cybersecurity & Infrastructure Security Agency, the United States of America)|[Ivanti Releases Security Updates for Endpoint Manager Mobile (EPMM) CVE-2023-35078](https://www.cisa.gov/news-events/alerts/2023/07/24/ivanti-releases-security-updates-endpoint-manager-mobile-epmm-cve-2023-35078)|
+|NCSC-NL (Nationaal Cyber Security Centrum, the Netherlands)|[TETRA-kwetsbaarheid en de rol van het NCSC bij CVD’s (Dutch only](https://www.ncsc.nl/actueel/weblog/weblog/2023/tetra-kwetsbaarheid-en-de-rol-van-het-ncsc-bij-cvds)|
+|HSCCC (Health Sector Cybersecurity Coordination Center United States of America)|[HC3: Sector Alert, Rhysida Ransomware](https://www.hhs.gov/sites/default/files/rhysida-ransomware-sector-alert-tlpclear.pdf)|
+|ThreatMon|[Unmasking Stealer X1na A Technical Analysis of the Latest Threat (IOCs)](https://github.com/ThreatMon/ThreatMon-Reports-IOC/tree/main/Unmasking-Stealer-X1na-A-Technical-Analysis-of-the-Latest-Threat)|
+|ThreatMon|[Unmasking Stealer X1na: A Technical Analysis of the Latest Threat](https://threatmon.io/unmasking-stealer-x1na-a-technical-analysis-of-the-latest-threat/)|
+|David G.|[Awesome Threat Intel Feeds](https://github.com/signalscorps/awesome-threat-intel-feeds)|
+|infosecn1nja|[Cyber Threat Intelligence](https://start.me/p/wMrA5z/cyber-threat-intelligence)|
+|Team Cymru|[Visualizing QakBot Infrastructure](https://www.team-cymru.com/post/visualizing-qakbot-infrastructure)|
+|Team Cymru|[Visualizing Qakbot Infrastructure Part II: Uncharted Territory](https://www.team-cymru.com/post/visualizing-qakbot-infrastructure-part-ii-uncharted-territory)|
+|Team Cymru|[Inside the IcedID BackConnect Protocol (Part 2)](https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol-part-2)|
+|Team Cymru|[Darth Vidar: The Dark Side of Evolving Threat Infrastructure](https://www.team-cymru.com/post/darth-vidar-the-dark-side-of-evolving-threat-infrastructure)|
+|Team Cymru|[A Blog with NoName](https://www.team-cymru.com/post/a-blog-with-noname)|
+|Team Cymru|[MoqHao Part 3: Recent Global Targeting Trends](https://www.team-cymru.com/post/moqhao-part-3-recent-global-targeting-trends)|
+|Team Cymru|[AllaKore(d) the SideCopy Train](https://www.team-cymru.com/post/allakore-d-the-sidecopy-train)|
+|Team Cymru|[Darth Vidar: The Aesir Strike Back](https://www.team-cymru.com/post/darth-vidar-the-aesir-strike-back)|
+|Picus|[July 2023: Key Threat Actors, Malware and Exploited Vulnerabilities](https://www.picussecurity.com/resource/blog/july-2023-key-threat-actors-malware-and-exploited-vulnerabilities)|
+|Picus|[Picus Cyber Threat Intelligence Report June 2023: Key Threat Actors, Regions and Industries at Risk](https://www.picussecurity.com/resource/blog/picus-cyber-threat-intelligence-report-june-2023)|
+|Picus|[Picus Cyber Threat Intelligence Report May 2023: Key Threat Actors, Vulnerable Regions, and Industries at Risk](https://www.picussecurity.com/resource/blog/key-threat-actors-vulnerable-regions-and-industries-at-risk)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
