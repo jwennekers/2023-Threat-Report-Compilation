@@ -180,8 +180,6 @@
 |Will Thomas|[Tracking Adversaries: Scattered Spider, the BlackCat affiliate](https://blog.bushidotoken.net/2023/08/tracking-adversaries-scattered-spider.html)|
 |AT&T|[Mac systems turned into proxy exit nodes by AdLoad](https://cybersecurity.att.com/blogs/labs-research/mac-systems-turned-into-proxy-exit-nodes-by-adload)|
 
-
-
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
 </div>
