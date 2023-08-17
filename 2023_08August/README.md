@@ -178,6 +178,7 @@
 |DHS (Department of Homeland Security United States of America)|[Review Of The Attacks Associated with Lapsus$ And Related Threat Groups Report](https://www.cisa.gov/sites/default/files/2023-08/CSRB_Lapsus%24_508c.pdf)|
 |Aqua|[Kubernetes Exposed: One Yaml away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)|
 |Will Thomas|[Tracking Adversaries: Scattered Spider, the BlackCat affiliate](https://blog.bushidotoken.net/2023/08/tracking-adversaries-scattered-spider.html)|
+|AT&T|[Mac systems turned into proxy exit nodes by AdLoad](https://cybersecurity.att.com/blogs/labs-research/mac-systems-turned-into-proxy-exit-nodes-by-adload)|
 
 
 
