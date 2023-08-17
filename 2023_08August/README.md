@@ -78,6 +78,7 @@
 |Sophos|[Into the tank with Nitrogen](https://news.sophos.com/en-us/2023/07/26/into-the-tank-with-nitrogen/)|
 |Rezilion|[CVSS, EPSS, KEV: The New Acronyms - And The Intelligence - You Need For Effective Vulnerability Management](https://info.rezilion.com/high-risk-vulnerabilities-missing-from-cisa-kev-catalog)|
 |Recorded Future / Insikt Group|[BlueCharlie, Previously Tracked as TAG-53, Continues to Deploy New Infrastructure in 2023](https://www.recordedfuture.com/bluecharlie-previously-tracked-as-tag-53-continues-to-deploy-new-infrastructure-in-2023)|
+|Recorded Future / Insikt Group|[Threat Actors Leverage Internet Services to Enhance Data Theft and Weaken Security Defenses](https://www.recordedfuture.com/threat-actors-leverage-internet-services-to-enhance-data-theft-and-weaken-security-defenses)|
 |Recorded Future / Insikt Group|[BlueBravo Adapts to Target Diplomatic Entities with GraphicalProton Malware](https://www.recordedfuture.com/bluebravo-adapts-to-target-diplomatic-entities-with-graphicalproton-malware)|
 |Recorded Future / Insikt Group|[RedHotel: A Prolific, Chinese State-Sponsored Group Operating at a Global Scale](https://www.recordedfuture.com/redhotel-a-prolific-chinese-state-sponsored-group-operating-at-a-global-scale)|
 |SlashNext|[AI-Based Cybercrime Tools WormGPT and FraudGPT Could Be The Tip of the Iceberg](https://slashnext.com/blog/ai-based-cybercrime-tools-wormgpt-and-fraudgpt-could-be-the-tip-of-the-iceberg/)|
