@@ -169,6 +169,15 @@
 |Blockchain Threat Intelligence|[BlockThreat - Week 29, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-29-2023)|
 |Blockchain Threat Intelligence|[BlockThreat - Week 30, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-30-2023)|
 |Blockchain Threat Intelligence|[BlockThreat - Week 31, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-31-2023)|
+|Fox IT|[Approximately 2000 Citrix NetScalers backdoored in mass-exploitation campaign](https://blog.fox-it.com/2023/08/15/approximately-2000-citrix-netscalers-backdoored-in-mass-exploitation-campaign/)|
+|Cyberint|[LinkedIn Accounts Under Attack](https://cyberint.com/blog/research/linkedin-accounts-under-attack-how-to-protect-yourself/)|
+|ShorSec|[DLL Notification Injection](https://shorsec.io/blog/dll-notification-injection/)|
+|RUSI (Royal United Services Institute, England)|[Cyber Insurance and the Ransomware Challenge](https://static.rusi.org/OP-cyber-insurance-ransomware-challenge-web-final.pdf)|
+|Akamai|[Xurum: New Magento Campaign Discovered](https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell)|
+|DHS (Department of Homeland Security United States of America)|[Review Of The Attacks Associated with Lapsus$ And Related Threat Groups Report](https://www.cisa.gov/sites/default/files/2023-08/CSRB_Lapsus%24_508c.pdf)|
+|Aqua|[Kubernetes Exposed: One Yaml away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)|
+
+
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
