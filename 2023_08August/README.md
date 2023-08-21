@@ -21,6 +21,9 @@
 |Mandiant|[Pro-PRC HaiEnergy Campaign Exploits U.S. News Outlets via Newswire Services to Target U.S. Audiences; Evidence of Commissioned Protests in Washington, D.C.](https://www.mandiant.com/resources/blog/pro-prc-haienergy-us-news)|
 |SANS|[SANS 2023 Security Awareness Report: Managing Human Risk](https://www.sans.org/blog/sans-2023-security-awareness-report-managing-human-risk/)|
 |Trellix|[Uncover the Hidden Story of Ransomware Victims – They’re Not Who You Think](https://www.trellix.com/en-gb/about/newsroom/stories/research/uncover-the-hidden-story-of-ransomware-victims.html)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 33, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-33-2023/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 32, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-32-2023/)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 31, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-31-2023/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 30, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-30-2023/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 29, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-29-2023/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 28, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-28-2023/)|
@@ -180,6 +183,21 @@
 |Aqua|[Kubernetes Exposed: One Yaml away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)|
 |Will Thomas|[Tracking Adversaries: Scattered Spider, the BlackCat affiliate](https://blog.bushidotoken.net/2023/08/tracking-adversaries-scattered-spider.html)|
 |AT&T|[Mac systems turned into proxy exit nodes by AdLoad](https://cybersecurity.att.com/blogs/labs-research/mac-systems-turned-into-proxy-exit-nodes-by-adload)|
+|Trend Micro|[Ransomware Spotlight: Play](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-play)|
+|SOCRadar|[Dark Web Profile: Play Ransomware](https://socradar.io/dark-web-profile-play-ransomware/)|
+|Sysdig|[LABRAT: Stealthy Cryptojacking and Proxyjacking Campaign Targeting GitLab](https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/)|
+|Cofense|[Major Energy Company Targeted in Large QR Code Campaign](https://cofense.com/blog/major-energy-company-targeted-in-large-qr-code-campaign/)|
+|Dig Security|[The State of Cloud Data Security in 2023](https://www.dig.security/pages/data-security-in-2023-report)|
+|OPSWAT|[2023 Threat Intelligence Trends: Malware Analysis Survey Insights](https://www.opswat.com/resources/reports/2023-threat-intelligence-trends)|
+|Corero Network Security|[Mirai and its Common Attack Methods](https://6483172.fs1.hubspotusercontent-na1.net/hubfs/6483172/collateral/threat-research/corero-threat-research-mirai.pdf)|
+|Sophos|[Clustering attacker behavior reveals hidden patterns](https://news.sophos.com/en-us/2023/08/08/a-series-of-ransomware-attacks-made-by-different-groups-share-curiously-similar-characteristics/)|
+|Fortinet|[Attackers Distribute Malware via Freeze.rs And SYK Crypter](https://www.fortinet.com/blog/threat-research/malware-distributed-via-freezers-and-syk-crypter)|
+|ZDI (Zero Day Initiative)|[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|
+|adlumin|[PlayCrypt Ransomware Group Wreaks Havoc in Campaign Against Managed Service Providers](https://adlumin.com/post/playcrypt-ransomware/)|
+|Hudson Rock|[100,000 Hackers Exposed from Top Cybercrime Forums](https://www.hudsonrock.com/blog/100-000-hackers-exposed-from-top-cybercrime-forums)|
+|Kaspersky|[New ransomware trends in 2023](https://securelist.com/new-ransomware-trends-in-2023/109660/)|
+|Kaspersky|[Phishing with hacked sites](https://securelist.com/phishing-with-hacked-sites/110334/)|
+|Joshua Harrison, Ehsan Toreini, Maryam Mehrnezhad|[A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards](https://arxiv.org/abs/2308.01074v1)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
