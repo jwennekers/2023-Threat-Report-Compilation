@@ -21,6 +21,7 @@
 |Mandiant|[Pro-PRC HaiEnergy Campaign Exploits U.S. News Outlets via Newswire Services to Target U.S. Audiences; Evidence of Commissioned Protests in Washington, D.C.](https://www.mandiant.com/resources/blog/pro-prc-haienergy-us-news)|
 |SANS|[SANS 2023 Security Awareness Report: Managing Human Risk](https://www.sans.org/blog/sans-2023-security-awareness-report-managing-human-risk/)|
 |Trellix|[Uncover the Hidden Story of Ransomware Victims – They’re Not Who You Think](https://www.trellix.com/en-gb/about/newsroom/stories/research/uncover-the-hidden-story-of-ransomware-victims.html)|
+|QuoIntelligence|[Weekly Intelligence Snapshot – Week 34, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-34-2023/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 33, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-33-2023/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 32, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-32-2023/)|
 |QuoIntelligence|[Weekly Intelligence Snapshot – Week 31, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-31-2023/)|
@@ -198,6 +199,22 @@
 |Kaspersky|[New ransomware trends in 2023](https://securelist.com/new-ransomware-trends-in-2023/109660/)|
 |Kaspersky|[Phishing with hacked sites](https://securelist.com/phishing-with-hacked-sites/110334/)|
 |Joshua Harrison, Ehsan Toreini, Maryam Mehrnezhad|[A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards](https://arxiv.org/abs/2308.01074v1)|
+|Group-IB|[Traders' Dollars in Danger: CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders](https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/)|
+|ESET|[Scarabs colon-izing vulnerable servers](https://www.welivesecurity.com/en/eset-research/scarabs-colon-izing-vulnerable-servers/)|
+|ESET|[Threat Report H1 2023](https://web-assets.esetstatic.com/wls/2023/07/eset_threat_report_h12023.pdf)|
+|Microsoft|[Microsoft Office Defense in Depth Update: ADV230003 Security Advisory](https://msrc.microsoft.com/update-guide/vulnerability/ADV230003)|
+|Microsoft / Microsoft Threat Intelligence|[Flax Typhoon using legitimate software to quietly access Taiwanese organizations](https://www.microsoft.com/en-us/security/blog/2023/08/24/flax-typhoon-using-legitimate-software-to-quietly-access-taiwanese-organizations/)|
+|Netenrich|[Discovering the ADHUBLLKA Ransomware Family: Tracing the Roots of LOLKEK, BIT, OBZ, U2K, TZW Variants](https://netenrich.com/blog/discovering-the-adhubllka-ransomware-family)|
+|Ransomware.org|[The State of Ransomware 2023](https://ransomware.org/wp-content/uploads/2023/05/2023_Ransomware_Survey_v1.pdf)|
+|Trellix|[Scattered Spider: The Modus Operandi](https://www.trellix.com/en-us/about/newsroom/stories/research/scattered-spider-the-modus-operandi.html)|
+|Trend Micro|[Profile Stealers Spread via LLM-themed Facebook Ads](https://www.trendmicro.com/en_us/research/23/h/profile-stealers-spread-via-llm-themed-facebook-ads.html)|
+|Mnemonic|[Threat Advisory: Remote Code Execution (RCE) vulnerability in Ivanti Sentry (CVE-2023-38035)](https://www.mnemonic.io/resources/blog/threat-advisory-remote-code-execution-vulnerability-in-ivanti-sentry/)|
+|Team Cymru|[Inside the IcedID BackConnect Protocol](https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol)|
+|Ivanti|[CVE-2023-38035 - Vulnerability affecting Ivanti Sentry](https://www.ivanti.com/blog/cve-2023-38035-vulnerability-affecting-ivanti-sentry)|
+|Interpol|[Cybercrime: 14 arrests, thousands of illicit cyber networks disrupted in Africa operation](https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation)|
+|SentinelOne|[XLoader’s Latest Trick: New macOS Variant Disguised as Signed OfficeNote App](https://www.sentinelone.com/blog/xloaders-latest-trick-new-macos-variant-disguised-as-signed-officenote-app/)|
+|Spin.AI|[Browser Extension Risk Report: High Risks for SaaS Data](https://spin.ai/blog/browser-extension-risk-report/)|
+
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
