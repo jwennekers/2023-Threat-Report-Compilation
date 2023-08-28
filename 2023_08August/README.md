@@ -214,6 +214,19 @@
 |Interpol|[Cybercrime: 14 arrests, thousands of illicit cyber networks disrupted in Africa operation](https://www.interpol.int/en/News-and-Events/News/2023/Cybercrime-14-arrests-thousands-of-illicit-cyber-networks-disrupted-in-Africa-operation)|
 |SentinelOne|[XLoader’s Latest Trick: New macOS Variant Disguised as Signed OfficeNote App](https://www.sentinelone.com/blog/xloaders-latest-trick-new-macos-variant-disguised-as-signed-officenote-app/)|
 |Spin.AI|[Browser Extension Risk Report: High Risks for SaaS Data](https://spin.ai/blog/browser-extension-risk-report/)|
+|Patrick Barker|[Dismantling Hermetic Wiper’s Little Brother: WhisperGate](https://medium.com/@pjbmalware/dismantling-hermetic-wipers-little-brother-whispergate-de052eefe202)|
+|Kroll|[Q2 2023 Threat Landscape Report: All Roads Lead to Supply Chain Infiltrations](https://www.kroll.com/en/insights/publications/cyber/threat-intelligence-reports/q2-2023-threat-landscape-report-supply-chain-infiltrations)|
+|Kroll|[Deep Dive into GOOTLOADER Malware and Its Infection Chain](https://www.kroll.com/en/insights/publications/cyber/deep-dive-gootloader-malware-infection-chain)|
+|AttackIQ|[Emulating the Iranian State-Sponsored Adversary APT35](https://www.attackiq.com/2023/08/18/emulating-apt35/)|
+|BlackBerry|[Cuba Ransomware Deploys New Tools: Targets Critical Infrastructure Sector in the U.S. and IT Integrator in Latin America](https://blogs.blackberry.com/en/2023/08/cuba-ransomware-deploys-new-tools-targets-critical-infrastructure-sector-in-the-usa-and-it-integrator-in-latin-america)|
+|Pentera|[The LOL Isn’t So Funny When It Bites You in the BAS](https://pentera.io/blog/the-lol-isnt-so-funny-when-it-bites-you-in-the-bas/)|
+|Critical Insight|[2023 H1 Healthcare Data Breach Report](https://cybersecurity.criticalinsight.com/healthcare-breach-report-h1-2023)|
+|Cycognito|[State of External Exposure Management Report](https://www.cycognito.com/resources/analyst-report/cycognito-state-of-external-exposure-management-report)|
+|Symantec|[Carderbee: APT Group use Legit Software in Supply Chain Attack Targeting Orgs in Hong Kong](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/carderbee-software-supply-chain-certificate-abuse)|
+|Talos / Cisco|[Lazarus Group's infrastructure reuse leads to discovery of new malware](https://blog.talosintelligence.com/lazarus-collectionrat/)|
+|Niels Groeneveld|[Badhood Analysis: A Comprehensive Framework for Identifying, Evaluating, and Neutralizing High-Risk Internet Subnets](https://www.linkedin.com/pulse/badhood-analysis-comprehensive-framework-identifying-niels-groeneveld/)|
+|bugcrowd|[Inside the Mind of a Hacker: 2023 Edition](https://www.bugcrowd.com/blog/inside-the-mind-of-a-hacker-2023-edition/)|
+|NIST (National Institute of Standards and Technology, United States of America)|[CVE-2023-26359 Detail](https://nvd.nist.gov/vuln/detail/CVE-2023-26359)|
 
 
 <div align="center">
