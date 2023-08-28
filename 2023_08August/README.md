@@ -175,6 +175,8 @@
 |Blockchain Threat Intelligence|[BlockThreat - Week 29, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-29-2023)|
 |Blockchain Threat Intelligence|[BlockThreat - Week 30, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-30-2023)|
 |Blockchain Threat Intelligence|[BlockThreat - Week 31, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-31-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 32, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-32-2023)|
+|Blockchain Threat Intelligence|[BlockThreat - Week 32, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-33-2023)|
 |Fox IT|[Approximately 2000 Citrix NetScalers backdoored in mass-exploitation campaign](https://blog.fox-it.com/2023/08/15/approximately-2000-citrix-netscalers-backdoored-in-mass-exploitation-campaign/)|
 |Cyberint|[LinkedIn Accounts Under Attack](https://cyberint.com/blog/research/linkedin-accounts-under-attack-how-to-protect-yourself/)|
 |ShorSec|[DLL Notification Injection](https://shorsec.io/blog/dll-notification-injection/)|
