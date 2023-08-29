@@ -230,6 +230,7 @@
 |bugcrowd|[Inside the Mind of a Hacker: 2023 Edition](https://www.bugcrowd.com/blog/inside-the-mind-of-a-hacker-2023-edition/)|
 |NIST (National Institute of Standards and Technology, United States of America)|[CVE-2023-26359 Detail](https://nvd.nist.gov/vuln/detail/CVE-2023-26359)|
 |The DFIR Report|[HTML Smuggling Leads to Domain Wide Ransomware](https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/)|
+|Intel 471|[The 471 Cyber Threat Report 2023-24](https://intel471.com/resources/whitepapers/the-471-cyber-threat-report-2023)|
 
 
 <div align="center">
