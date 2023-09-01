@@ -24,8 +24,8 @@
 |17.|Blockchain Threat Intelligence|[BlockThreat - Week 7, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-7-2023)|
 |18.|Blockchain Threat Intelligence|[BlockThreat - Week 8, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-8-2023)|
 |19.|Blockchain Threat Intelligence|[BlockThreat - Week 9, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-9-2023)|
-|20.Blockchain Threat Intelligence|[BlockThreat - Week 10, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-10-2023)|
-|21.Blockchain Threat Intelligence|[BlockThreat - Week 11, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-11-2023)|
+|20.|Blockchain Threat Intelligence|[BlockThreat - Week 10, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-10-2023)|
+|21.|Blockchain Threat Intelligence|[BlockThreat - Week 11, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-11-2023)|
 |22.|Blockchain Threat Intelligence|[BlockThreat - Week 12, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-12-2023)|
 |23.|Blockchain Threat Intelligence|[BlockThreat - Week 13, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-13-2023)|
 |24.|Blockchain Threat Intelligence|[BlockThreat - Week 14, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-14-2023)|
@@ -149,97 +149,97 @@
 |142.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 01](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-01/)|
 |143.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 02](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-02/)|
 |144.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 03](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-03/)|
-|146.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 04](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-04/)|
-|147.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 05](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-05/)|
-|148.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 06](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-05-2/)|
-|149.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 07](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-07/)|
-|148.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 08](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-08/)|
-|149.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 09](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-09/)|
-|150.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 10](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-10/)|
-|151.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 11](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-11/)|
-|152.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 12](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-12/)|
-|153.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 13](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-13/)|
-|154.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 14](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-14/)|
-|155.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 15](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-15/)|
-|156.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 16](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-16/)|
-|157.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 17](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-17/)|
-|158.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 18](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-18/)|
-|159.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 19](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-19/)|
-|160.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 20](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-20-2/)|
-|161.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 21, 2023](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-21-2023/)|
-|162.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 22, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-22-2023/)|
-|163.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 23, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-23-2023/)|
-|164.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 24, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-24-2023/)|
-|165.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 25, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-25-2023/)|
-|166.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 26, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-26-2023/)|
-|167.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 27, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-27-2023/)|
-|168.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 28, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-28-2023/)|
-|169.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 29, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-29-2023/)|
-|170.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 30, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-30-2023/)|
-|171.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 31, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-31-2023/)|
-|172.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 32, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-32-2023/)|
-|173.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 33, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-33-2023/)|
-|174.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 34, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-34-2023/)|
-|175.|Ransomware.org|[The State of Ransomware 2023](https://ransomware.org/wp-content/uploads/2023/05/2023_Ransomware_Survey_v1.pdf)|
-|176.|Rapid7|[Rapid7 2022 Vulnerability Intelligence Report](https://www.rapid7.com/globalassets/_pdfs/2022-vulnerability-intelligence-report.pdf)|
-|177.|Recorded Future / Insikt Group|[BlueBravo Adapts to Target Diplomatic Entities with GraphicalProton Malware](https://www.recordedfuture.com/bluebravo-adapts-to-target-diplomatic-entities-with-graphicalproton-malware)|
-|178.|Recorded Future / Insikt Group|[BlueCharlie, Previously Tracked as TAG-53, Continues to Deploy New Infrastructure in 2023](https://www.recordedfuture.com/bluecharlie-previously-tracked-as-tag-53-continues-to-deploy-new-infrastructure-in-2023)|
-|179.|Recorded Future / Insikt Group|[H1 2023: Ransomware's Pivot to Linux and Vulnerable Drivers](https://www.recordedfuture.com/h1-2023-ransomwares-pivot-to-linux-and-vulnerable-drivers)|
-|180.|Recorded Future / Insikt Group|[RedHotel: A Prolific, Chinese State-Sponsored Group Operating at a Global Scale](https://www.recordedfuture.com/redhotel-a-prolific-chinese-state-sponsored-group-operating-at-a-global-scale)|
-|181.|Recorded Future / Insikt Group|[Threat Actors Leverage Internet Services to Enhance Data Theft and Weaken Security Defenses](https://www.recordedfuture.com/threat-actors-leverage-internet-services-to-enhance-data-theft-and-weaken-security-defenses)|
-|182.|Red Canary|[Intelligence Insights: February 2023](https://redcanary.com/blog/intelligence-insights-february-2023/)|
-|183.|Red Canary|[Intelligence Insights: March 2023](https://redcanary.com/blog/intelligence-insights-march-2023/)|
-|184.|Red Canary|[Intelligence Insights: April 2023](https://redcanary.com/blog/intelligence-insights-april-2023/)|
-|185.|Red Canary|[Intelligence Insights: May 2023](https://redcanary.com/blog/intelligence-insights-may-2023/)|
-|186.|Red Canary|[Intelligence Insights: June 2023](https://redcanary.com/blog/intelligence-insights-june-2023/)|
-|187.|Red Canary|[Intelligence Insights: July 2023](https://redcanary.com/blog/intelligence-insights-july-2023/)|
-|188.|Red Canary|[Intelligence Insights: August 2023](https://redcanary.com/blog/intelligence-insights-august-2023/)|
-|189.|Rezilion|[CVSS, EPSS, KEV: The New Acronyms - And The Intelligence - You Need For Effective Vulnerability Management](https://info.rezilion.com/high-risk-vulnerabilities-missing-from-cisa-kev-catalog)|
-|190.|Ruihan Li / Stanislav Ochotnický / Pumpkin|[StackRot (CVE-2023-3269): Linux kernel privilege escalation vulnerability](https://github.com/lrh2000/StackRot#stackrot-cve-2023-3269-linux-kernel-privilege-escalation-vulnerability)|
-|191.|RUSI (Royal United Services Institute, England)|[Cyber Insurance and the Ransomware Challenge](https://static.rusi.org/OP-cyber-insurance-ransomware-challenge-web-final.pdf)|
-|192.|SANS|[SANS 2023 Security Awareness Report: Managing Human Risk](https://www.sans.org/blog/sans-2023-security-awareness-report-managing-human-risk/)|
-|193.|Sekoia.io|[CustomerLoader: a new malware distributing a wide variety of payloads](https://blog.sekoia.io/customerloader-a-new-malware-distributing-a-wide-variety-of-payloads/#more)|
-|194.|SentinelOne|[Apple Crimeware: Massive Rust Infostealer Campaign Aiming for macOS Sonoma Ahead of Public Release](https://www.sentinelone.com/blog/apple-crimeware-massive-rust-infostealer-campaign-aiming-for-macos-sonoma-ahead-of-public-release/)|
-|195.|SentinelOne|[XLoader’s Latest Trick: New macOS Variant Disguised as Signed OfficeNote App](https://www.sentinelone.com/blog/xloaders-latest-trick-new-macos-variant-disguised-as-signed-officenote-app/)|
-|196.|ShorSec|[DLL Notification Injection](https://shorsec.io/blog/dll-notification-injection/)|
-|197.|SlashNext|[AI-Based Cybercrime Tools WormGPT and FraudGPT Could Be The Tip of the Iceberg](https://slashnext.com/blog/ai-based-cybercrime-tools-wormgpt-and-fraudgpt-could-be-the-tip-of-the-iceberg/)|
-|198.|SOCRadar|[Dark Web Profile: Play Ransomware](https://socradar.io/dark-web-profile-play-ransomware/)|
-|199.|Sonar|[A Twist in the Code: OpenMeetings Vulnerabilities through Unexpected Application State](https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/)|
-|200.|Sophos|[Clustering attacker behavior reveals hidden patterns](https://news.sophos.com/en-us/2023/08/08/a-series-of-ransomware-attacks-made-by-different-groups-share-curiously-similar-characteristics/)|
-|201.|Sophos|[Into the tank with Nitrogen](https://news.sophos.com/en-us/2023/07/26/into-the-tank-with-nitrogen/)|
-|202.|Spin.AI|[Browser Extension Risk Report: High Risks for SaaS Data](https://spin.ai/blog/browser-extension-risk-report/)|
-|203.|Symantec|[Carderbee: APT Group use Legit Software in Supply Chain Attack Targeting Orgs in Hong Kong](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/carderbee-software-supply-chain-certificate-abuse)|
-|204.|SynSaber|[ICS CVE Research:First Half of 2023](https://synsaber.com/resources/research-reports/ics-cve-reports/ics-cve-research-first-half-2023/)|
-|205.|Sysdig|[LABRAT: Stealthy Cryptojacking and Proxyjacking Campaign Targeting GitLab](https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/)|
-|206.|Talos / Cisco|[Lazarus Group's infrastructure reuse leads to discovery of new malware](https://blog.talosintelligence.com/lazarus-collectionrat/)|
-|207.|Team Cymru|[A Blog with NoName](https://www.team-cymru.com/post/a-blog-with-noname)|
-|208.|Team Cymru|[AllaKore(d) the SideCopy Train](https://www.team-cymru.com/post/allakore-d-the-sidecopy-train)|
-|209.|Team Cymru|[Darth Vidar: The Aesir Strike Back](https://www.team-cymru.com/post/darth-vidar-the-aesir-strike-back)|
-|210.|Team Cymru|[Darth Vidar: The Dark Side of Evolving Threat Infrastructure](https://www.team-cymru.com/post/darth-vidar-the-dark-side-of-evolving-threat-infrastructure)|
-|211.|Team Cymru|[Inside the IcedID BackConnect Protocol (Part 2)](https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol-part-2)|
-|212.|Team Cymru|[Inside the IcedID BackConnect Protocol](https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol)|
-|213.|Team Cymru|[MoqHao Part 3: Recent Global Targeting Trends](https://www.team-cymru.com/post/moqhao-part-3-recent-global-targeting-trends)|
-|214.|Team Cymru|[Visualizing Qakbot Infrastructure Part II: Uncharted Territory](https://www.team-cymru.com/post/visualizing-qakbot-infrastructure-part-ii-uncharted-territory)|
-|215.|Team Cymru|[Visualizing QakBot Infrastructure](https://www.team-cymru.com/post/visualizing-qakbot-infrastructure)|
-|216.|Team Cymru|[Voice of a Threat Hunter Report](https://www.team-cymru.com/gate/voice-of-a-threat-hunter-report)|
-|217.|The DFIR Report|[HTML Smuggling Leads to Domain Wide Ransomware](https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/)|
-|218.|ThreatMon|[Unmasking Stealer X1na A Technical Analysis of the Latest Threat (IOCs)](https://github.com/ThreatMon/ThreatMon-Reports-IOC/tree/main/Unmasking-Stealer-X1na-A-Technical-Analysis-of-the-Latest-Threat)|
-|219.|ThreatMon|[Unmasking Stealer X1na: A Technical Analysis of the Latest Threat](https://threatmon.io/unmasking-stealer-x1na-a-technical-analysis-of-the-latest-threat/)|
-|220.|Trellix|[Scattered Spider: The Modus Operandi](https://www.trellix.com/en-us/about/newsroom/stories/research/scattered-spider-the-modus-operandi.html)|
-|221.|Trellix|[Uncover the Hidden Story of Ransomware Victims – They’re Not Who You Think](https://www.trellix.com/en-gb/about/newsroom/stories/research/uncover-the-hidden-story-of-ransomware-victims.html)|
-|222.|Trend Micro|[Profile Stealers Spread via LLM-themed Facebook Ads](https://www.trendmicro.com/en_us/research/23/h/profile-stealers-spread-via-llm-themed-facebook-ads.html)|
-|223.|Trend Micro|[Ransomware Spotlight: Play](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-play)|
-|224.|Trend Micro|[Related CherryBlos and FakeTrade Android Malware Involved in Scam Campaigns](https://www.trendmicro.com/en_us/research/23/g/cherryblos-and-faketrade-android-malware-involved-in-scam-campai.html)|
-|225.|Trustwave|[Honeypot Recon: Enterprise Applications Honeypot - Unveiling Findings from Six Worldwide Locations](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/)|
-|226.|Varonis|[What is IDOR (Insecure Direct Object Reference)?](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)|
-|227.|VulnCheck|[Exploiting MikroTik RouterOS Hardware with CVE-2023-30799](https://vulncheck.com/blog/mikrotik-foisted-revisited)|
-|228.|White Knight Labs|[Unleashing the Unseen: Harnessing the Power of Cobalt Strike Profiles for EDR Evasion](https://whiteknightlabs.com/2023/05/23/unleashing-the-unseen-harnessing-the-power-of-cobalt-strike-profiles-for-edr-evasion/)|
-|229.|Will Thomas|[Tracking Adversaries: Scattered Spider, the BlackCat affiliate](https://blog.bushidotoken.net/2023/08/tracking-adversaries-scattered-spider.html)|
-|230.|WIRED|[How “Operation Cookie Monster” took down the world’s largest cybercriminal marketplace, Genesis](https://wired.me/technology/cybersecurity-cookie-monster-death-of-genesis/)|
-|231.|Wiz|[2023 Cloud Security Threat Report](https://www.wiz.io/lp/2023-cloud-security-threat-report)|
-|232.|World Economic Forum|[Chief Risk Officers Outlook: July 2023](https://www3.weforum.org/docs/WEF_Chief_Risk_Officers_Outlook_2023.pdf)|
-|233.|ZDI (Zero Day Initiative)|[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|
-|234.|Zscaler|[Statc Stealer: Decoding the Elusive Malware Threat](https://www.zscaler.com/blogs/security-research/statc-stealer-decoding-elusive-malware-threat)|
+|145.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 04](https://quointelligence.eu/2023/01/weekly-threat-intelligence-snapshot-week-04/)|
+|146.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 05](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-05/)|
+|147.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 06](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-05-2/)|
+|148.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 07](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-07/)|
+|149.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 08](https://quointelligence.eu/2023/02/weekly-threat-intelligence-snapshot-week-08/)|
+|150.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 09](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-09/)|
+|151.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 10](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-10/)|
+|152.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 11](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-11/)|
+|153.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 12](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-12/)|
+|154.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 13](https://quointelligence.eu/2023/03/weekly-threat-intelligence-snapshot-week-13/)|
+|155.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 14](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-14/)|
+|156.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 15](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-15/)|
+|157.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 16](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-16/)|
+|158.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 17](https://quointelligence.eu/2023/04/weekly-threat-intelligence-snapshot-week-17/)|
+|159.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 18](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-18/)|
+|160.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 19](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-19/)|
+|161.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 20](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-20-2/)|
+|162.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 21, 2023](https://quointelligence.eu/2023/05/weekly-threat-intelligence-snapshot-week-21-2023/)|
+|163.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 22, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-22-2023/)|
+|164.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 23, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-23-2023/)|
+|165.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 24, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-24-2023/)|
+|166.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 25, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-25-2023/)|
+|167.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 26, 2023](https://quointelligence.eu/2023/06/weekly-threat-intelligence-snapshot-week-26-2023/)|
+|168.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 27, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-27-2023/)|
+|169.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 28, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-28-2023/)|
+|170.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 29, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-29-2023/)|
+|171.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 30, 2023](https://quointelligence.eu/2023/07/weekly-threat-intelligence-snapshot-week-30-2023/)|
+|172.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 31, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-31-2023/)|
+|173.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 32, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-32-2023/)|
+|174.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 33, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-33-2023/)|
+|175.|QuoIntelligence|[Weekly Intelligence Snapshot – Week 34, 2023](https://quointelligence.eu/2023/08/weekly-threat-intelligence-snapshot-week-34-2023/)|
+|176.|Ransomware.org|[The State of Ransomware 2023](https://ransomware.org/wp-content/uploads/2023/05/2023_Ransomware_Survey_v1.pdf)|
+|177.|Rapid7|[Rapid7 2022 Vulnerability Intelligence Report](https://www.rapid7.com/globalassets/_pdfs/2022-vulnerability-intelligence-report.pdf)|
+|178.|Recorded Future / Insikt Group|[BlueBravo Adapts to Target Diplomatic Entities with GraphicalProton Malware](https://www.recordedfuture.com/bluebravo-adapts-to-target-diplomatic-entities-with-graphicalproton-malware)|
+|179.|Recorded Future / Insikt Group|[BlueCharlie, Previously Tracked as TAG-53, Continues to Deploy New Infrastructure in 2023](https://www.recordedfuture.com/bluecharlie-previously-tracked-as-tag-53-continues-to-deploy-new-infrastructure-in-2023)|
+|180.|Recorded Future / Insikt Group|[H1 2023: Ransomware's Pivot to Linux and Vulnerable Drivers](https://www.recordedfuture.com/h1-2023-ransomwares-pivot-to-linux-and-vulnerable-drivers)|
+|181.|Recorded Future / Insikt Group|[RedHotel: A Prolific, Chinese State-Sponsored Group Operating at a Global Scale](https://www.recordedfuture.com/redhotel-a-prolific-chinese-state-sponsored-group-operating-at-a-global-scale)|
+|182.|Recorded Future / Insikt Group|[Threat Actors Leverage Internet Services to Enhance Data Theft and Weaken Security Defenses](https://www.recordedfuture.com/threat-actors-leverage-internet-services-to-enhance-data-theft-and-weaken-security-defenses)|
+|183.|Red Canary|[Intelligence Insights: February 2023](https://redcanary.com/blog/intelligence-insights-february-2023/)|
+|184.|Red Canary|[Intelligence Insights: March 2023](https://redcanary.com/blog/intelligence-insights-march-2023/)|
+|185.|Red Canary|[Intelligence Insights: April 2023](https://redcanary.com/blog/intelligence-insights-april-2023/)|
+|186.|Red Canary|[Intelligence Insights: May 2023](https://redcanary.com/blog/intelligence-insights-may-2023/)|
+|187.|Red Canary|[Intelligence Insights: June 2023](https://redcanary.com/blog/intelligence-insights-june-2023/)|
+|188.|Red Canary|[Intelligence Insights: July 2023](https://redcanary.com/blog/intelligence-insights-july-2023/)|
+|189.|Red Canary|[Intelligence Insights: August 2023](https://redcanary.com/blog/intelligence-insights-august-2023/)|
+|190.|Rezilion|[CVSS, EPSS, KEV: The New Acronyms - And The Intelligence - You Need For Effective Vulnerability Management](https://info.rezilion.com/high-risk-vulnerabilities-missing-from-cisa-kev-catalog)|
+|191.|Ruihan Li / Stanislav Ochotnický / Pumpkin|[StackRot (CVE-2023-3269): Linux kernel privilege escalation vulnerability](https://github.com/lrh2000/StackRot#stackrot-cve-2023-3269-linux-kernel-privilege-escalation-vulnerability)|
+|192.|RUSI (Royal United Services Institute, England)|[Cyber Insurance and the Ransomware Challenge](https://static.rusi.org/OP-cyber-insurance-ransomware-challenge-web-final.pdf)|
+|193.|SANS|[SANS 2023 Security Awareness Report: Managing Human Risk](https://www.sans.org/blog/sans-2023-security-awareness-report-managing-human-risk/)|
+|194.|Sekoia.io|[CustomerLoader: a new malware distributing a wide variety of payloads](https://blog.sekoia.io/customerloader-a-new-malware-distributing-a-wide-variety-of-payloads/#more)|
+|195.|SentinelOne|[Apple Crimeware: Massive Rust Infostealer Campaign Aiming for macOS Sonoma Ahead of Public Release](https://www.sentinelone.com/blog/apple-crimeware-massive-rust-infostealer-campaign-aiming-for-macos-sonoma-ahead-of-public-release/)|
+|196.|SentinelOne|[XLoader’s Latest Trick: New macOS Variant Disguised as Signed OfficeNote App](https://www.sentinelone.com/blog/xloaders-latest-trick-new-macos-variant-disguised-as-signed-officenote-app/)|
+|197.|ShorSec|[DLL Notification Injection](https://shorsec.io/blog/dll-notification-injection/)|
+|198.|SlashNext|[AI-Based Cybercrime Tools WormGPT and FraudGPT Could Be The Tip of the Iceberg](https://slashnext.com/blog/ai-based-cybercrime-tools-wormgpt-and-fraudgpt-could-be-the-tip-of-the-iceberg/)|
+|199.|SOCRadar|[Dark Web Profile: Play Ransomware](https://socradar.io/dark-web-profile-play-ransomware/)|
+|200.|Sonar|[A Twist in the Code: OpenMeetings Vulnerabilities through Unexpected Application State](https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/)|
+|201.|Sophos|[Clustering attacker behavior reveals hidden patterns](https://news.sophos.com/en-us/2023/08/08/a-series-of-ransomware-attacks-made-by-different-groups-share-curiously-similar-characteristics/)|
+|202.|Sophos|[Into the tank with Nitrogen](https://news.sophos.com/en-us/2023/07/26/into-the-tank-with-nitrogen/)|
+|203.|Spin.AI|[Browser Extension Risk Report: High Risks for SaaS Data](https://spin.ai/blog/browser-extension-risk-report/)|
+|204.|Symantec|[Carderbee: APT Group use Legit Software in Supply Chain Attack Targeting Orgs in Hong Kong](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/carderbee-software-supply-chain-certificate-abuse)|
+|205.|SynSaber|[ICS CVE Research:First Half of 2023](https://synsaber.com/resources/research-reports/ics-cve-reports/ics-cve-research-first-half-2023/)|
+|206.|Sysdig|[LABRAT: Stealthy Cryptojacking and Proxyjacking Campaign Targeting GitLab](https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/)|
+|207.|Talos / Cisco|[Lazarus Group's infrastructure reuse leads to discovery of new malware](https://blog.talosintelligence.com/lazarus-collectionrat/)|
+|208.|Team Cymru|[A Blog with NoName](https://www.team-cymru.com/post/a-blog-with-noname)|
+|209.|Team Cymru|[AllaKore(d) the SideCopy Train](https://www.team-cymru.com/post/allakore-d-the-sidecopy-train)|
+|210.|Team Cymru|[Darth Vidar: The Aesir Strike Back](https://www.team-cymru.com/post/darth-vidar-the-aesir-strike-back)|
+|211.|Team Cymru|[Darth Vidar: The Dark Side of Evolving Threat Infrastructure](https://www.team-cymru.com/post/darth-vidar-the-dark-side-of-evolving-threat-infrastructure)|
+|212.|Team Cymru|[Inside the IcedID BackConnect Protocol (Part 2)](https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol-part-2)|
+|213.|Team Cymru|[Inside the IcedID BackConnect Protocol](https://www.team-cymru.com/post/inside-the-icedid-backconnect-protocol)|
+|214.|Team Cymru|[MoqHao Part 3: Recent Global Targeting Trends](https://www.team-cymru.com/post/moqhao-part-3-recent-global-targeting-trends)|
+|215.|Team Cymru|[Visualizing Qakbot Infrastructure Part II: Uncharted Territory](https://www.team-cymru.com/post/visualizing-qakbot-infrastructure-part-ii-uncharted-territory)|
+|216.|Team Cymru|[Visualizing QakBot Infrastructure](https://www.team-cymru.com/post/visualizing-qakbot-infrastructure)|
+|217.|Team Cymru|[Voice of a Threat Hunter Report](https://www.team-cymru.com/gate/voice-of-a-threat-hunter-report)|
+|218.|The DFIR Report|[HTML Smuggling Leads to Domain Wide Ransomware](https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/)|
+|219.|ThreatMon|[Unmasking Stealer X1na A Technical Analysis of the Latest Threat (IOCs)](https://github.com/ThreatMon/ThreatMon-Reports-IOC/tree/main/Unmasking-Stealer-X1na-A-Technical-Analysis-of-the-Latest-Threat)|
+|220.|ThreatMon|[Unmasking Stealer X1na: A Technical Analysis of the Latest Threat](https://threatmon.io/unmasking-stealer-x1na-a-technical-analysis-of-the-latest-threat/)|
+|221.|Trellix|[Scattered Spider: The Modus Operandi](https://www.trellix.com/en-us/about/newsroom/stories/research/scattered-spider-the-modus-operandi.html)|
+|222.|Trellix|[Uncover the Hidden Story of Ransomware Victims – They’re Not Who You Think](https://www.trellix.com/en-gb/about/newsroom/stories/research/uncover-the-hidden-story-of-ransomware-victims.html)|
+|223.|Trend Micro|[Profile Stealers Spread via LLM-themed Facebook Ads](https://www.trendmicro.com/en_us/research/23/h/profile-stealers-spread-via-llm-themed-facebook-ads.html)|
+|224.|Trend Micro|[Ransomware Spotlight: Play](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-play)|
+|225.|Trend Micro|[Related CherryBlos and FakeTrade Android Malware Involved in Scam Campaigns](https://www.trendmicro.com/en_us/research/23/g/cherryblos-and-faketrade-android-malware-involved-in-scam-campai.html)|
+|226.|Trustwave|[Honeypot Recon: Enterprise Applications Honeypot - Unveiling Findings from Six Worldwide Locations](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/)|
+|227.|Varonis|[What is IDOR (Insecure Direct Object Reference)?](https://www.varonis.com/blog/what-is-idor-insecure-direct-object-reference)|
+|228.|VulnCheck|[Exploiting MikroTik RouterOS Hardware with CVE-2023-30799](https://vulncheck.com/blog/mikrotik-foisted-revisited)|
+|229.|White Knight Labs|[Unleashing the Unseen: Harnessing the Power of Cobalt Strike Profiles for EDR Evasion](https://whiteknightlabs.com/2023/05/23/unleashing-the-unseen-harnessing-the-power-of-cobalt-strike-profiles-for-edr-evasion/)|
+|230.|Will Thomas|[Tracking Adversaries: Scattered Spider, the BlackCat affiliate](https://blog.bushidotoken.net/2023/08/tracking-adversaries-scattered-spider.html)|
+|231.|WIRED|[How “Operation Cookie Monster” took down the world’s largest cybercriminal marketplace, Genesis](https://wired.me/technology/cybersecurity-cookie-monster-death-of-genesis/)|
+|232.|Wiz|[2023 Cloud Security Threat Report](https://www.wiz.io/lp/2023-cloud-security-threat-report)|
+|233.|World Economic Forum|[Chief Risk Officers Outlook: July 2023](https://www3.weforum.org/docs/WEF_Chief_Risk_Officers_Outlook_2023.pdf)|
+|234.|ZDI (Zero Day Initiative)|[RARLAB WinRAR Recovery Volume Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-23-1152/)|
+|235.|Zscaler|[Statc Stealer: Decoding the Elusive Malware Threat](https://www.zscaler.com/blogs/security-research/statc-stealer-decoding-elusive-malware-threat)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
