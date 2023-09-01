@@ -17,7 +17,7 @@
 |10.|BlackBerry|[Global Threat Intelligence Report: March 1 – May 31, 2023](https://www.blackberry.com/us/en/solutions/threat-intelligence/2023/threat-intelligence-report-august)|
 |11.|Blockchain Threat Intelligence|[BlockThreat - Week 1, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-1-2023)|
 |12.|Blockchain Threat Intelligence|[BlockThreat - Week 2, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-2-2023)|
-|13.||Blockchain Threat Intelligence|[BlockThreat - Week 3, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-3-2023)|
+|13.|Blockchain Threat Intelligence|[BlockThreat - Week 3, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-3-2023)|
 |14.|Blockchain Threat Intelligence|[BlockThreat - Week 4, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-4-2023)|
 |15.|Blockchain Threat Intelligence|[BlockThreat - Week 5, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-5-2023)|
 |16.|Blockchain Threat Intelligence|[BlockThreat - Week 6, 2023](https://newsletter.blockthreat.io/p/blockthreat-week-6-2023)|
