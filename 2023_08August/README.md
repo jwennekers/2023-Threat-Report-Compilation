@@ -1,4 +1,4 @@
-![August](https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/7a9c0018-0209-4474-a133-e4e583849dbb)
+![August](https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/311fd2a5-3c17-4155-9ab3-43be6af2e209)
 
 # Threat Report Compilation | August 2023
 
