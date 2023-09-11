@@ -1,4 +1,4 @@
-[Placeholder for September report status]
+- Placeholder for September report status -
 
 # Threat Report Compilation | September 2023
 
