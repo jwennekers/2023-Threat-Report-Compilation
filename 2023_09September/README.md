@@ -2,7 +2,7 @@
 
 # Threat Report Compilation | September 2023
 
-ID  Publisher  | Report |
+|ID|  Publisher  | Report |
 | ------------- | ------------- | ------------- |
 |1|Access Now|[Hacking Meduza: Pegasus spyware used to target Putin’s critic](https://www.accessnow.org/publication/hacking-meduza-pegasus-spyware-used-to-target-putins-critic/#behind-the-hacking)|
 |2|amatas|[Cyber Threat Report: August 2023](https://amatas.com/reports/cyber-threat-report-august-2023/)|
