@@ -1,4 +1,4 @@
-🔶 Placeholder for September report status 🔶
+![September](https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/1be6006c-915b-46be-8e52-68689167ac81)
 
 # Threat Report Compilation | September 2023
 
