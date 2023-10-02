@@ -79,7 +79,7 @@ ID  Publisher  | Report |
 |73|Secureworks|[SMOKE LOADER DROPS WHIFFY RECON WI-FI SCANNING AND GEOLOCATION MALWARE](https://www.secureworks.com/blog/smoke-loader-drops-whiffy-recon-wi-fi-scanning-and-geolocation-malware)|
 |74|Security Joes|[New Attack Vector In The Cloud: Attackers caught exploiting Object Storage Services](https://www.securityjoes.com/post/new-attack-vector-in-the-cloud-attackers-caught-exploiting-object-storage-services)|
 |75|Securonix|[Securonix Threat Labs Security Advisory: Threat Actors Target MSSQL Servers in DB#JAMMER to Deliver FreeWorld Ransomware](https://www.securonix.com/blog/securonix-threat-labs-security-advisory-threat-actors-target-mssql-servers-in-dbjammer-to-deliver-freeworld-ransomware/)|
-|76|Sekoia.io|[https://blog.sekoia.io/the-transportation-sector-cyber-threat-overview]|
+|76|Sekoia.io|[The Transportation sector cyber threat overview](https://blog.sekoia.io/the-transportation-sector-cyber-threat-overview)|
 |77|Sekoia.io|[My Tea’s not cold. An overview of China’s cyber threat](https://blog.sekoia.io/my-teas-not-cold-an-overview-of-china-cyber-threat/)|
 |78|Sekoia.io|[Sekoia.io mid-2023 Ransomware Threat Landscape](https://blog.sekoia.io/sekoia-io-mid-2023-ransomware-threat-landscape/)|
 |79|SentinelOne, SentinelLabs|[CapraTube: Transparent Tribe’s CapraRAT Mimics YouTube to Hijack Android Phones](https://www.sentinelone.com/labs/capratube-transparent-tribes-caprarat-mimics-youtube-to-hijack-android-phones/)|
