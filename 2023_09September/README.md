@@ -84,7 +84,7 @@ ID  Publisher  | Report |
 |78|Sekoia.io|[Sekoia.io mid-2023 Ransomware Threat Landscape](https://blog.sekoia.io/sekoia-io-mid-2023-ransomware-threat-landscape/)|
 |79|SentinelOne, SentinelLabs|[CapraTube: Transparent Tribe’s CapraRAT Mimics YouTube to Hijack Android Phones](https://www.sentinelone.com/labs/capratube-transparent-tribes-caprarat-mimics-youtube-to-hijack-android-phones/)|
 |80|SentinelOne, SentinelLabs|[Cyber Soft Power: China’s Continental Takeover](https://www.sentinelone.com/labs/cyber-soft-power-chinas-continental-takeover/)|
-|81|SentinelOne, SentinelLabs|[Sandman APT | [A Mystery Group Targeting Telcos with a LuaJIT Toolkit](https://www.sentinelone.com/labs/sandman-apt-a-mystery-group-targeting-telcos-with-a-luajit-toolkit/)|
+|81|SentinelOne, SentinelLabs|[Sandman APT: A Mystery Group Targeting Telcos with a LuaJIT Toolkit](https://www.sentinelone.com/labs/sandman-apt-a-mystery-group-targeting-telcos-with-a-luajit-toolkit/)|
 |82|SOCRadar|[Telegram Hit by a DDoS Attack: What Is the Cause Behind It?](https://socradar.io/telegram-hit-by-a-ddos-attack-what-is-the-cause-behind-it/)|
 |83|Splunk|[Sharing is Not Caring: Hunting for Network Share Discovery](https://www.splunk.com/en_us/blog/security/sharing-is-not-caring-hunting-for-file-share-discovery.html)|
 |84|STAR Labs SG|[[P2O Vancouver 2023] SharePoint Pre-Auth RCE chain (CVE-2023–29357 & CVE-2023–24955)](https://starlabs.sg/blog/2023/09-sharepoint-pre-auth-rce-chain/)|
