@@ -52,7 +52,7 @@
 |46|Mandiant|[Analysis of Time-to-Exploit Trends: 2021-2022](https://www.mandiant.com/resources/blog/time-to-exploit-trends-2021-2022)|
 |47|Mandiant|[Backchannel Diplomacy: APT29’s Rapidly Evolving Diplomatic Phishing Operations](https://www.mandiant.com/resources/blog/apt29-evolving-diplomatic-phishing)|
 |48|Mandiant|[Why Are You Texting Me? UNC3944 Leverages SMS Phishing Campaigns for SIM Swapping, Ransomware, Extortion, and Notoriety](https://www.mandiant.com/resources/blog/unc3944-sms-phishing-sim-swapping-ransomware)|
-|49||Microsoft (Microsoft Security Response Center)|[Results of Major Technical Investigations for Storm-0558 Key Acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)|
+|49|Microsoft (Microsoft Security Response Center)|[Results of Major Technical Investigations for Storm-0558 Key Acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)|
 |50|Microsoft (Microsoft Threat Analysis Center)|[China, North Korea pursue new targets while honing cyber capabilities](https://blogs.microsoft.com/on-the-issues/2023/09/07/digital-threats-cyberattacks-east-asia-china-north-korea/)|
 |51|Microsoft (Microsoft Threat Analysis Center)|[Russia’s influence networks in Sahel activated after coups](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2023/09/Sahel-Gabon-Coup-Playbook-PDF.pdf)|
 |52|Microsoft (Microsoft Threat Intelligence)|[Flax Typhoon using legitimate software to quietly access Taiwanese organizations](https://www.microsoft.com/en-us/security/blog/2023/08/24/flax-typhoon-using-legitimate-software-to-quietly-access-taiwanese-organizations/)|
