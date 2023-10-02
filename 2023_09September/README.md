@@ -87,7 +87,7 @@
 |81|SentinelOne, SentinelLabs|[Sandman APT: A Mystery Group Targeting Telcos with a LuaJIT Toolkit](https://www.sentinelone.com/labs/sandman-apt-a-mystery-group-targeting-telcos-with-a-luajit-toolkit/)|
 |82|SOCRadar|[Telegram Hit by a DDoS Attack: What Is the Cause Behind It?](https://socradar.io/telegram-hit-by-a-ddos-attack-what-is-the-cause-behind-it/)|
 |83|Splunk|[Sharing is Not Caring: Hunting for Network Share Discovery](https://www.splunk.com/en_us/blog/security/sharing-is-not-caring-hunting-for-file-share-discovery.html)|
-|84|STAR Labs SG|[[P2O Vancouver 2023] SharePoint Pre-Auth RCE chain (CVE-2023–29357 & CVE-2023–24955)](https://starlabs.sg/blog/2023/09-sharepoint-pre-auth-rce-chain/)|
+|84|STAR Labs SG|[P2O Vancouver 2023: SharePoint Pre-Auth RCE chain (CVE-2023–29357 & CVE-2023–24955)](https://starlabs.sg/blog/2023/09-sharepoint-pre-auth-rce-chain/)|
 |85|State Service of Special Communications and Information Protection of Ukraine|[How russian government-controlled hacking groups shift their tactics, objectives and capacities — report](https://cip.gov.ua/en/news/yak-zminyuyutsya-taktiki-cili-i-spromozhnosti-khakerskikh-grup-uryadu-rf-ta-kontrolovanikh-nim-ugrupovan-zvit)|
 |86|State Service of Special Communications and Information Protection of Ukraine|[The АРТ28 hacking group associated with russian special services attempts an attack on critical power infrastructure facility of Ukraine](https://cip.gov.ua/en/news/khakerske-ugrupuvannya-art28-yake-pov-yazuyut-zi-specsluzhbami-rf-namagalosya-atakuvati-ob-yekt-kritichnoyi-energetichnoyi-infrastrukturi-ukrayini)|
 |87|Strike Source|[The Evolution of Command-and-Control Servers](https://strikesource.com/2023/09/10/the-evolution-of-command-and-control-servers/)|
