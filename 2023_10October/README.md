@@ -4,7 +4,7 @@
 
 |Publisher  | Report |
 | ------------- | ------------- |
-|The DFIR Spot|[Artifacts of Execution: Prefetch - Part One]([...](https://www.thedfirspot.com/post/artifacts-of-execution-i-know-what-you-did-last-incident))|
+|The DFIR Spot|[Artifacts of Execution: Prefetch - Part One](https://www.thedfirspot.com/post/artifacts-of-execution-i-know-what-you-did-last-incident)|
 |Sekoia.io|[Active Lycantrox Infrastructure Illumination](https://blog.sekoia.io/active-lycantrox-infrastructure-illumination/)|
 |Trend Micro|[DarkGate Opens Organizations for Attack via Skype, Teams](https://www.trendmicro.com/en_us/research/23/j/darkgate-opens-organizations-for-attack-via-skype-teams.html)|
 |Wordfence|[Backdoor Masquerading as Legitimate Plugin](https://www.wordfence.com/blog/2023/10/backdoor-masquerading-as-legitimate-plugin/)|
