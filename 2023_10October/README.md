@@ -1,4 +1,4 @@
-![October](https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/5daaf0ef-3a65-4f5d-b289-30e00b726630)
+![October (1)](https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/c2b875b1-6b9c-4b0a-bb6c-3614887030fb)
 
 # Threat Report Compilation | October 2023
 
