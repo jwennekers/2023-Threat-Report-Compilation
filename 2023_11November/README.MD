@@ -63,6 +63,7 @@
 |56|Red Canary|[Adversaries exploit Confluence vulnerability to deploy ransomware](https://redcanary.com/blog/confluence-exploit-ransomware/)|
 |57|Zscaler|[ThreatLabz 2023 Enterprise IoT & OT Threat Report](https://www.zscaler.com/resources/industry-reports/threatlabz-2023-enterprise-ioT-ot-threat-report.pdf)|
 |58|Palo Alto / Unit42|[Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)|
+|59|Simone Kraus|[Top Cy-X Threat Actors impacting Germany in 2023 and how to defend against them](https://medium.com/@simone.kraus/top-cy-x-threat-actors-2023-in-germany-c909b5d45e9a)|
 
 <div align="center">
 <img src="https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/6061c6fd-330d-46e4-acdd-336c580fca4e" alt="drawing" width="120"/>
