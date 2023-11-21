@@ -7,7 +7,7 @@
 |1|Uptycs|[GhostSec offers Ransomware-as-a-Service Possibly Used to Target Israel (uptycs.com)](https://www.uptycs.com/blog/ghostlocker-ransomware-ghostsec)|
 |2|amatas|[Cyber Threat Report: October 2023 - AMATAS](https://amatas.com/reports/cyber-threat-report-october-2023/)|
 |3|ThreatMon|[The Anatomy of a Sidecopy Attack: From RAR Exploits to AllaKore RAT](https://threatmon.io/the-anatomy-of-a-sidecopy-attack-from-rar-exploits-to-allakore-rat/))|
-|4|ThreatMon|[ThreatMon-Reports-IOC/The-Anatomy-of-a-Sidecopy-Attack-From-RAR-Exploits-to-AllaKore-RAT at main · ThreatMon/ThreatMon-Reports-IOC · GitHub](https://github.com/ThreatMon/ThreatMon-Reports-IOC/tree/main/The-Anatomy-of-a-Sidecopy-Attack-From-RAR-Exploits-to-AllaKore-RAT)|
+|4|ThreatMon|[The Anatomy of a Sidecopy Attack From RAR Exploits to AllaKore RAT at main - Reports IOC](https://github.com/ThreatMon/ThreatMon-Reports-IOC/tree/main/The-Anatomy-of-a-Sidecopy-Attack-From-RAR-Exploits-to-AllaKore-RAT)|
 |5|Checkmarx|[Python Obfuscation Traps](https://medium.com/checkmarx-security/python-obfuscation-traps-1acced941375)|
 |6|Kaspersky|[Analysis of a spy module inside a WhatsApp mod](https://securelist.com/spyware-whatsapp-mod/110984/)|
 |7|Kaspersky|[Modern Asia APT groups TTPs](https://securelist.com/modern-asia-apt-groups-ttp/111009/)|
