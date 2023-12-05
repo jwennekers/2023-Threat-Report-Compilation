@@ -1,4 +1,4 @@
-🔸Placeholder for November Status Update 🔸
+![November](https://github.com/jwennekers/2023-Threat-Report-Compilation/assets/136587455/abdd15a0-6997-48e2-9140-2c4b7b03592d)
 
 # Threat Report Compilation | November 2023
 
